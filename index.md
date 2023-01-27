@@ -12,6 +12,10 @@ ASiS este un Sistem Informatic de tip ERP pentru companii medii și mari. ASiS-u
 Pentru familiarizare cu sintaxa de scriere [vezi aici ](https://just-the-docs.github.io/just-the-docs/)
 Structura documentatie ASiS ERP
 
+Ficare modul va fi documentat mai jos.
+
+
+
 Prezentare generală
 Cloud Azure
 Update automat
