@@ -6,9 +6,9 @@ parent: Personal - Salarizare
 ---
 
 #Modificari ASiS.PS valabile de la 01.03.2020
-
-#01.01.2023
 {: .fs-6 .fw-300 }
+
+01.01.2023
 - Conform OUG 168/2022 se modifica modul de calcul al deducerii personale de baza si in acelasi timp se introduce deducerea personala suplimentara.
 - Deducerea personala de baza se acorda pentru persoanele fizice care au un venit lunar brut de pana la 2.000 de lei peste nivelul salariului de baza minim brut pe tara garantat in plata (5000 la nivelul anului 2023). Acest plafon de 2000 RON + salariul minim brut il vom denumi Venit brut maxim cu deducere suplimentara (VBMDS). Deducerea personala de baza se acorda doar la functia de baza. Deducerea personala de baza scade degresiv pentru veniturile (venit brut lunar=Venit total din Stat de plata + valoare tichete) cuprise intre salariul minim brut (3000 la 2023) si salariul minim brut + 2000 RON (5000 la 2023) conform formulei descrise in Ordonanta 16/15.07.2022 (Articolul 40). 
 - Pentru contribuabilii care realizează venituri brute lunare din salarii ce depasesc plafonul generat de salariul minim + 2000 RON, NU se acorda deducerea suplimentara de baza.
