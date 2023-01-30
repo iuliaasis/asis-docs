@@ -1,12 +1,13 @@
 ---
 title: Personal - Salarizare
 layout: home
-nav_order: 4
-has_children: true
+nav_order: 1
+has_children: false
 ---
 
-# Aplicația Personal – Salarizare 
-Oferă informaţii complete şi corecte despre salariaţi și automatizează calculul salarial din companii în conformitate cu legislația românească în vigoare.
+# Aplicația Personal – Salarizare
+
+- Oferă informaţii complete şi corecte despre salariaţi și automatizează calculul salarial din companii în conformitate cu legislația românească în vigoare.
 - Pe lângă datele cu caracter de personal (date de identificare, persoane în întreținere, deduceri) , se pot introduce informații extinse despre un salariat (cursuri, calificări, etc) ce pot fi extrase ulterior în rapoartele specifice.
 - Aplicația cunoaște o multitudine de tipuri de impozitări ce pot fi folosite pentru angajații permanenți (pe perioadă determinată sau nedeterminată), ocazionali, pensionari, pentru persoanele cu dizabilități, etc. Plata angajaților poate fi făcută în regim TESA (după ore lucrate) sau acord (dupa realizări).
 - Asigură automatizarea calculului salarial cu evidențierea impozitelor și taxelor aferente salariilor, conform legislației la zi.
