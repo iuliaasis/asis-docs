@@ -26,6 +26,6 @@ Oferă informaţii complete şi corecte despre salariaţi și automatizează cal
 - Se pot introduce corecții atât în sume brute cât și în sume nete, caz în care va face calculul invers și se va stabili corecția în sumă brută.
 - Pentru persoanele care sunt plătite în acord și au salariul stabilit în funcție de o monedă străină (chiar și salariul net), aplicația știe să calculeze automat acest fapt.
 - Este posibilă vizualizarea şi listarea situațiilor de avans, lichidare, premii, rețineri sau concedii. Fluturașii de lichidare pot fi configurați pentru a afișa cât mai multe informații utile pentru un salariat (de exemplu: realizările efective în acord) și se trimit pe email.
-Generează automat fișierul XML al declarației 112.
+- Generează automat fișierul XML al declarației 112.
 
 
