@@ -1,3 +1,10 @@
+---
+title: Modificări legislative
+layout: home
+nav_order: 1
+parent: Personal - Salarizare
+---
+
 Modificari ASiS.PS valabile de la 01.03.2020
 
 01.01.2023
