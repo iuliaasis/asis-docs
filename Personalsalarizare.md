@@ -2,7 +2,7 @@
 title: Personal - Salarizare
 layout: home
 nav_order: 4
-has_children: false
+has_children: true
 ---
 
 # Aplicația Personal – Salarizare 
