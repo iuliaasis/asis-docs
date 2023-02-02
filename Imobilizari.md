@@ -4,6 +4,8 @@ layout: home
 nav_order: 3
 has_children: false
 ---
+
+# Contabilitate generală
 - Aplicaţia Imobilizări (Mijloace fixe) gestionează datele privind imobilizările corporale şi necorporale şi automatizează calculul de amortizare permițând urmărirea constantă a evoluției mijloacelor fixe.
 - Aplicația gestionează mijloacele fixe propriu-zise sau de natura obiectelor de inventar.
 - Fișa mijlocului fix conține informații legate de modalitatea de dobândire, perioada de amortizare rămasă, valoarea mijlocului fix, amortizarea cumulată și lunară.
