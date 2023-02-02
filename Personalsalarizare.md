@@ -5,7 +5,7 @@ nav_order: 4
 has_children: true
 ---
 
-# Aplicația Personal – Salarizare
+# Personal – Salarizare
 
 - Oferă informaţii complete şi corecte despre salariaţi și automatizează calculul salarial din companii în conformitate cu legislația românească în vigoare.
 - Pe lângă datele cu caracter de personal (date de identificare, persoane în întreținere, deduceri) , se pot introduce informații extinse despre un salariat (cursuri, calificări, etc) ce pot fi extrase ulterior în rapoartele specifice.
