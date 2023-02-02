@@ -1,7 +1,7 @@
 ---
 title: Resurse Umane
 layout: home
-parent: Personal - Salarizare
+parent: Personal – Salarizare
 nav_order: 2
 has_children: false
 ---
