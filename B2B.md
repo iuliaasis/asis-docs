@@ -5,7 +5,7 @@ parent: home
 nav_order: 2
 has_children: false
 ---
-#Modulul B2B/Business-to-Business
+# B2B?Business-to-Business
 
 - Platforma ASiS B2B se adresează în special companiilor din zona de distribuție produse sau servicii. Ea vine în completarea aplicațiilor ASiS care urmăresc dezvoltarea relațiilor de afaceri între parteneri (furnizori și clienți), oferindu-le posibilitatea clienților de a realiza comenzi de livrare către furnizor printr-o interfață prietenoasă de tip web-based. Pentru ambii parteneri, aceasta înseamnă scăderea costurilor de operare, reducerea considerabilă a timpilor de livrare și urmărirea centralizată și facilă a strategiei de e-business dintre părțile implicate.
 
