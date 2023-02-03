@@ -1,7 +1,6 @@
 ---
 title: Comenzi de aprovizionare
 layout: home
-parent: home
 nav_order: 2
 has_children: false
 ---
