@@ -1,10 +1,11 @@
 ---
 title: Comenzi de livrare
 layout: home
-parent: Home
+parent: home
 nav_order: 2
 has_children: false
 ---
+#Modulul Comenzi de livrare
 Modulul Comenzi de livrare realizează preluarea și/sau editarea, precum și urmărirea comenzilor de livrare, atât de la clienți, cât și de la depozite sau puncte de lucru proprii.
 
 - Realizarea acestor comenzi se face în baza documentelor de livrare (avize, facturi, bonuri, transferuri). Urmărirea comenzilor se face prin monitorizarea în diverse centralizatoare sau prin rapoarte specifice.
