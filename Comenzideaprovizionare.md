@@ -5,6 +5,9 @@ parent: home
 nav_order: 2
 has_children: false
 ---
+# Comenzi de aprovizionare
+
+
 Modulul Comenzi de aprovizionare realizează generarea și/sau editarea, precum și urmărirea comenzilor de aprovizionare.
 - Permite actualizarea comenzilor de aprovizionare printr-o machetă specifică, cu un mare grad de configurabilitate la implementare.
 - Generarea comenzilor se face folosind un Centralizator, bazat pe furnizorii agreați, pe cantitățile vândute sau consumate în producție, necesar producţie pe o perioadă sau necesar de aprovizionat operat pe departamente, pe indicatori privind stocuri limită (minime/maxime), etc.
