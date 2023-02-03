@@ -1,10 +1,12 @@
 ---
 title: Financiar - terți
 layout: home
+parent: home
 nav_order: 2
 has_children: false
 ---
 # Modulul Financiar- Terți
+
 Modulul financiar gestionează şi raportează toate operațiunile în relație cu terții, încasările/ plăţile efectuate, astfel încât să fie evidenţiat întreg fluxul monetar al companiei. Înregistrările şi evidenţa fluxului monetar se poate face și pe clasificaţia bugetară.
 - Permite înregistrarea de documente financiare – operarea facturilor primite sau emise, Plăţi/încasări de facturi (cu posibilitate de repartizare automată a sumelor achitate pe facturi), chitanţe, deconturi diverse, compensări facturi, inclusiv pe clasificație bugetară.
 - Asigură înregistrarea avansurilor de trezorerie pe angajați și a deconturilor justificative aferente, pe clasificație bugetară sau nu.
