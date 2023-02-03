@@ -1,11 +1,11 @@
 ---
-title: Contabilitate generală
+title: Contabilitate românească
 layout: home
 nav_order: 2
 has_children: false
 ---
 
-# Contabilitate generală
+# Contabilitate generală (românească)
 Modulul Contabilitate generală permite realizarea exercițiului contabil conform structurii unitare de raportare: cont contabil, domeniu, sursa de finantare, dacă e cazul. Toate datele contabile sunt preluate din celelalte aplicații ale sistemului și se regăsesc în această aplicație.
 
 - Plan general de conturi, solduri si rulaje pe orice perioadă.
