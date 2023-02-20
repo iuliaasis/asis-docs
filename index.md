@@ -42,14 +42,14 @@ Structura documentatie ASiS ERP
 | <b>Module</b>                              | Descriere         |
 |:-------------                              |:------------------|
 | Contabilitate generala                     | modul care permite colecteaza, stocheaza si proceseaza toate informatiile financiare ale intreprinderii intr-un singur sistem, oferind o vedere completa si actualizata a situatiei financiare a intreprinderii. |
-| Management financiar                       | good and plenty   |
-| WMS/Managementul stocurilor                | good `oreos`      |
-| Personal - Salarizare                      | good `zoute` drop | 
-| Managementul Resurselor Umane              | good `zoute` drop | 
-| Imobilizari/Mijloace Fixe                  | good `zoute` drop | 
-| Personal - Salarizare                      | good `zoute` drop | 
-| Personal - Salarizare                      | good `zoute` drop | 
-| Personal - Salarizare                      | good `zoute` drop | 
+| Management financiar/Financiar-Terti       | modul care permite gestionarea fluxurilor de numerar si a bugetelor.|
+| WMS/Managementul stocurilor                | modul care permite urmarirea stocurilor si inventarului, precum si administrarea aprovizionarii si a depozitarii bunurilor.      |
+| Personal - Salarizare                      | modul care permite administrarea angajatilor, inclusiv gestiunea salarizarii, administrarea concediilor si a altor beneficii. | 
+| Managementul Resurselor Umane              | modul care permite gestionarea cursurilor si a performantelor angajatilor | 
+| Imobilizari/Mijloace Fixe                  | modul care gestionează datele privind imobilizările corporale şi necorporale şi automatizează calculul de amortizare permițând urmărirea constantă a evoluției mijloacelor fixe. | 
+| Managementul costurilor/Postcalcul                      | good `zoute` drop | 
+| Contracte furnizori                      | good `zoute` drop | 
+| Contracte clienti                      | good `zoute` drop | 
 </div>
 
 
