@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# ASiS ERP
+# ASiS ERP - solutie de digitalizare pentru companiile romanesti
 {: .fs-9 }
 
 ASiS ERP este un sistem integrat de planificare a resurselor intreprinderii (ERP) dezvoltat de compania romaneasca Alfa Software.
