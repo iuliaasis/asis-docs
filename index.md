@@ -39,12 +39,12 @@ Structura documentatie ASiS ERP
 
 <div class="code-example" markdown="1">
 
-| <b>Module</b>| Descriere         |
-|:-------------|:------------------|
-| ok           | good swedish fish |
-| out of stock | good and plenty   |
-| ok           | good `oreos`      |
-| ok           | good `zoute` drop | 
+| <b>Module</b>                              | Descriere         |
+|:-------------                              |:------------------|
+| Contabilitate generala                     | good swedish fish |
+| out of stock                               | good and plenty   |
+| ok                                         | good `oreos`      |
+| ok                                         | good `zoute` drop | 
 </div>
 
 
