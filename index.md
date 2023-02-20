@@ -41,9 +41,12 @@ Structura documentatie ASiS ERP
 | Personal - Salarizare                      | modul care permite administrarea angajatilor, inclusiv gestiunea salarizarii, administrarea concediilor si a altor beneficii. | 
 | Managementul Resurselor Umane              | modul care permite gestionarea cursurilor si a performantelor angajatilor | 
 | Imobilizari/Mijloace Fixe                  | modul care gestionează datele privind imobilizările corporale şi necorporale şi automatizează calculul de amortizare permițând urmărirea constantă a evoluției mijloacelor fixe. | 
-| Managementul costurilor/Postcalcul                      | good `zoute` drop | 
+| Managementul costurilor/Postcalcul                      | modulul care calculeaza costurile implicate in procesul de fabricatie, inclusiv costurile materiilor prime, costurile fortei de munca, costurile utilitatilor si alte costuri aferente procesului de productie. | 
 | Contracte furnizori                      | modul care permit gestionarea si monitorizarea achizitiilor, inclusiv identificarea furnizorilor, realizarea de comenzi, primirea si inspectarea bunurilor si platirea furnizorilor. | 
+| Comenzi de aprovizionare                     | modul care permit procesarea si urmarirea achizitiilor.|
 | Contracte clienti                      | modul care permit procesarea si urmarirea comenzilor de la clienti, gestionarea contractelor si a ofertelor de pret, precum si administrarea relatilor cu clientii. | 
+| Comenzi de livrare                     | modul care permit procesarea si urmarirea comenzilor de la clienti. |
+|Managementul productiei                     | modul care permit planificarea si urmarirea proceselor de productie, precum si gestionarea aprovizionarii si a inventarului de materii prime. | 
 |Managementul productiei                     | modul care permit planificarea si urmarirea proceselor de productie, precum si gestionarea aprovizionarii si a inventarului de materii prime. | 
 </div>
 
