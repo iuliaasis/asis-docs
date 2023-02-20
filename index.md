@@ -17,6 +17,23 @@ Prin intermediul modulelor sale, ASiS ERP ofera functii de baza, precum gestiune
 
 ASiS ERP este utilizat de companii din diverse industrii, precum productie, constructii, reciclare, comert sau servicii, iar printre beneficiile sale se numara: cresterea eficientei si a productivitatii, reducerea costurilor si a erorilor, imbunatatirea managementului si a raportarii, si nu in ultimul rand, sporirea competitivitatii pe piata.
 
+Aplicatiile sistemului ASiS ERP includ o serie de module software care acopera majoritatea proceselor si activitatilor desfasurate intr-o intreprindere. ASiS ERP are peste 12 module standard, dar exista posibilitatea de a atasa module noi, dezvoltate pentru nevoile unei anumite companii sau industrii.
+
+Iata cateva exemple de aplicatii de baza ale ERP-ului ASiS:
+
+Gestionarea vanzarilor - module care permit procesarea si urmarirea comenzilor de la clienti, gestionarea contractelor si a ofertelor de pret, precum si administrarea relatilor cu clientii.
+
+Gestionarea achizitiilor - module care permit gestionarea si monitorizarea achizitiilor, inclusiv identificarea furnizorilor, realizarea de comenzi, primirea si inspectarea bunurilor si platirea furnizorilor.
+
+Gestionarea stocurilor - module care permit urmarirea stocurilor si inventarului, precum si administrarea aprovizionarii si a depozitarii bunurilor.
+
+Gestionarea productiei - module care permit planificarea si urmarirea proceselor de productie, precum si gestionarea aprovizionarii si a inventarului de materii prime.
+
+Gestionarea finantelor - module care permit urmarirea situatiei financiare a intreprinderii, precum administrarea contabilitatii, gestionarea fluxurilor de numerar si a bugetelor.
+
+Gestionarea resurselor umane - module care permit administrarea angajatilor, inclusiv gestiunea salarizarii, administrarea concediilor si a altor beneficii.
+
+Analiza si raportarea datelor - module care permit generarea de rapoarte si analize bazate pe datele colectate in sistem, inclusiv rapoarte financiare, de performanta a productiei sau de vanzari.
 Pentru familiarizare cu sintaxa de scriere [vezi aici ](https://just-the-docs.github.io/just-the-docs/)
 Structura documentatie ASiS ERP
 
