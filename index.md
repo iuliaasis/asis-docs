@@ -41,7 +41,7 @@ Structura documentatie ASiS ERP
 
 | <b>Module</b>                              | Descriere         |
 |:-------------                              |:------------------|
-| Contabilitate generala                     | good swedish fish |
+| Contabilitate generala                     | modul care permite colecteaza, stocheaza si proceseaza toate informatiile financiare ale intreprinderii intr-un singur sistem, oferind o vedere completa si actualizata a situatiei financiare a intreprinderii. |
 | Management financiar                       | good and plenty   |
 | WMS/Managementul stocurilor                | good `oreos`      |
 | Personal - Salarizare                      | good `zoute` drop | 
