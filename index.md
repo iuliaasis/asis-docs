@@ -20,6 +20,17 @@ ASiS ERP este utilizat de companii din diverse industrii, precum productie, cons
 Pentru familiarizare cu sintaxa de scriere [vezi aici ](https://just-the-docs.github.io/just-the-docs/)
 Structura documentatie ASiS ERP
 
+<div class="code-example" markdown="1">
+
+| <b>Module</b>| Descriere         |
+|:-------------|:------------------|
+| ok           | good swedish fish |
+| out of stock | good and plenty   |
+| ok           | good `oreos`      |
+| ok           | good `zoute` drop | 
+</div>
+
+
 Ficare modul va fi documentat mai jos.
 
 
