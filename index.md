@@ -24,12 +24,10 @@ Iata cateva exemple de aplicatii de baza ale ERP-ului ASiS:
 
 Structura module ASiS ERP
 
-<div class="code-example" markdown="1">
+<div class="code-example">
 
 | Module        | Descriere         |
-|:-------------:|:------------------:|
+|:-------------|:------------------|
 | Contabilitate generala| Modul care colecteaza, stocheaza si proceseaza toate informatiile contabile ale intreprinderii intr-un singur sistem, oferind o vedere completa si actualizata a situatiei financiare a intreprinderii. |
 | Management financiar/Financiar-Terti| modul care permite gestionarea fluxurilor de numerar si a bugetelor.|
 </div>
-
-
