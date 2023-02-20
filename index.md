@@ -22,7 +22,7 @@ Aplicatiile sistemului ASiS ERP includ o serie de module software care acopera m
 Iata cateva exemple de aplicatii de baza ale ERP-ului ASiS:
 
 
-Structura documentatie ASiS ERP
+Structura module ASiS ERP
 
 <div class="code-example" markdown="1">
 
