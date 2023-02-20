@@ -26,22 +26,10 @@ Structura module ASiS ERP
 
 <div class="code-example" markdown="1">
 
-| <b>Module</b>                              | Descriere         |
-|:-------------                              |:------------------|
-| Contabilitate generala                     | modul care colecteaza, stocheaza si proceseaza toate informatiile contabile ale intreprinderii intr-un singur sistem, oferind o vedere completa si actualizata a situatiei financiare a intreprinderii. |
-| Management financiar/Financiar-Terti       | modul care permite gestionarea fluxurilor de numerar si a bugetelor.|
-| WMS/Managementul stocurilor                | modul care permite urmarirea stocurilor si inventarului, precum si administrarea aprovizionarii si a depozitarii bunurilor.      |
-| Personal - Salarizare                      | modul care permite administrarea angajatilor, inclusiv gestiunea salarizarii, administrarea concediilor si a altor beneficii. | 
-| Managementul Resurselor Umane              | modul care permite gestionarea cursurilor si a performantelor angajatilor. | 
-| Imobilizari/Mijloace Fixe                  | modul care gestionează datele privind imobilizările corporale şi necorporale şi automatizează calculul de amortizare permițând urmărirea constantă a evoluției mijloacelor fixe. | 
-| Managementul costurilor/Postcalcul                      | modulul care calculeaza costurile implicate in procesul de fabricatie, inclusiv costurile materiilor prime, costurile fortei de munca, costurile utilitatilor si alte costuri aferente procesului de productie. | 
-| Contracte furnizori                      | modul care permite gestionarea si monitorizarea achizitiilor, inclusiv identificarea furnizorilor, realizarea de comenzi, primirea si inspectarea bunurilor si platirea furnizorilor. | 
-| Comenzi de aprovizionare                     | modul care permite procesarea si urmarirea achizitiilor.|
-| Contracte clienti                      | modul care permite procesarea si urmarirea comenzilor de la clienti, gestionarea contractelor si a ofertelor de pret, precum si administrarea relatilor cu clientii. | 
-| Comenzi de livrare                     | modul care permite procesarea si urmarirea comenzilor de la clienti. |
-|Managementul productiei                     | modul care permite planificarea si urmarirea proceselor de productie, precum si gestionarea aprovizionarii si a inventarului de materii prime. | 
-|Managementul transporturilor/TMS                 | modul care permite planificarea si urmarirea transporturilor de marfuri. | 
-|Parc auto/Mentenanta masini si utilaje                 | modul care poate ajuta intreprinderile sa mentina masinile in stare optima de functionare si sa evite timpii morti si costurile asociate cu defectiunile si intreruperile neasteptate ale productiei.  | 
+| Module        | Descriere         |
+|:-------------:|:------------------:|
+| Contabilitate generala| Modul care colecteaza, stocheaza si proceseaza toate informatiile contabile ale intreprinderii intr-un singur sistem, oferind o vedere completa si actualizata a situatiei financiare a intreprinderii. |
+| Management financiar/Financiar-Terti| modul care permite gestionarea fluxurilor de numerar si a bugetelor.|
 </div>
 
 
