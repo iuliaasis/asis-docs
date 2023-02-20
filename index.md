@@ -1,5 +1,5 @@
 ---
-title: Ce este ASiS ERP?
+title: ASiS ERP - prezentare generala
 layout: home
 nav_order: 1
 ---
@@ -7,7 +7,13 @@ nav_order: 1
 # ASiS ERP
 {: .fs-9 }
 
-ASiS este un Sistem Informatic de tip ERP pentru companii medii și mari. ASiS-ul este o soluție completă pentru o companie (întrerpindere) și ajută efectiv utilizatorii ei să automatizeze procese legate de: contabilitate, financiar, stocuri, mijloace fixe, resurse umane, salarii, managementul contractelor / comenzilor sau managementul producției. ASiS-ul include o componentă de tip Business Intelligence ce permite extragerea informațiilor intr-o manieră simplă și intuitivă.
+ASiS ERP este un sistem integrat de planificare a resurselor intreprinderii (ERP) dezvoltat de compania romaneasca Alfa Software.
+
+ASiS ERP este conceput pentru a ajuta companiile sa-si gestioneze eficient toate activitatile interne, inclusiv: vanzari, achizitii, inventar, productie, contabilitate, salarizare si administrare personal. Sistemul integreaza si automatizeaza toate aceste procese, oferind astfel o vedere completa si actualizata a afacerii la nivelul intregii organizatii.
+
+Prin intermediul modulelor sale, ASiS ERP ofera functii de baza, precum gestiunea stocurilor, a achizitiilor si a vanzarilor, dar si functii mai avansate, cum ar fi planificarea productiei, gestionarea comenzilor clientilor sau analiza datelor. Sistemul poate fi personalizat si configurat pentru a se adapta nevoilor specifice ale fiecarei companii.
+
+ASiS ERP este utilizat de companii din diverse industrii, precum productie, constructii, reciclare, comert sau servicii, iar printre beneficiile sale se numara: cresterea eficientei si a productivitatii, reducerea costurilor si a erorilor, imbunatatirea managementului si a raportarii, si nu in ultimul rand, sporirea competitivitatii pe piata.
 
 Pentru familiarizare cu sintaxa de scriere [vezi aici ](https://just-the-docs.github.io/just-the-docs/)
 Structura documentatie ASiS ERP
