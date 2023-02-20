@@ -8,6 +8,8 @@ nav_order: 1
 {: .fs-9 }
 
 ASiS ERP este un sistem integrat de planificare a resurselor companiilor (ERP) dezvoltat de compania romaneasca Alfa Software.
+![image](https://user-images.githubusercontent.com/123550007/220093928-9e4e898d-42a0-47aa-9f7c-fe4f0c9a7f91.png)
+
 
 ASiS ERP este conceput pentru a ajuta companiile sa-si gestioneze eficient toate activitatile interne, inclusiv: vanzari, achizitii, inventar, productie, contabilitate, salarizare si administrare personal. Sistemul integreaza si automatizeaza toate aceste procese, oferind astfel o vedere completa si actualizata a afacerii la nivelul intregii organizatii.
 
