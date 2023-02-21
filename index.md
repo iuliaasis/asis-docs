@@ -40,3 +40,5 @@ Structura module ASiS ERP
 |Managementul productiei|Modul care permite planificarea si urmarirea proceselor de productie, precum si gestionarea aprovizionarii si a inventarului de materii prime.|
 |Managementul transporturilor/TMS|Modul care permite planificarea si urmarirea transporturilor de marfuri.|
 |Parc auto/Mentenanta masini si utilaje|Modul care poate ajuta intreprinderile sa mentina masinile in stare optima de functionare si sa evite timpii morti si costurile asociate cu defectiunile si intreruperile neasteptate ale productiei.|
+|Punct de Vanzare|Modul care permite gestionarea activitatii de retail intr-un magazin sau lant de magazine.|
+|Business Intelligence|Modul care permite analiza economico-financiară sau operațională a datelor fie prin dasboard-uri interactive.|
