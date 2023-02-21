@@ -23,7 +23,7 @@ Iata cateva exemple de aplicatii de baza ale ERP-ului ASiS:
 
 
 
-# Structura module ASiS ERP
+## Structura module ASiS ERP
 
 | Module       | Descriere         | 
 |:-------------|:------------------|
@@ -44,10 +44,10 @@ Iata cateva exemple de aplicatii de baza ale ERP-ului ASiS:
 |[Punct de Vanzare]|Modul care permite gestionarea activitatii de retail intr-un magazin sau lant de magazine.|
 |[Business Intelligence]|Modul care permite analiza economico-financiară sau operațională a datelor fie prin dasboard-uri interactive.|
 
-# ASiS ERP - On Premise sau SaaS (in Microsoft Azure)
+## ASiS ERP - On Premise sau SaaS (in Microsoft Azure)
 
-# On-Premise
+### On-Premise
 Achizitionarea de licente ERP On-premise presupune un efort financiar consistent la inceputul implementarii ASiS ERP deoarece toata investitia legata de licente, servere, hardware, mentenanta va fi facuta integral, de la inceput, de catre client. Acest tip de implementare va face responsabil pentru tot ceea ce este legat de funcționarea software-ului. Trebuie să achiziționați infrastructura de rețea, sa asigurati alimentarea permanenta cu energie electrică, serverele, sistemul de operare, software-ul bazei de date etc. 
 
-# SaaS - Software-as-a-Service
+### SaaS - Software-as-a-Service
 Utilizând un model de abonament Software-as-a-Service (Cloudul Microsoft Azure), nu trebuie să achiziționați licențele ASiS ERP sau echipamentele necesare. Singurul cost este o taxă lunara pentru serviciile cloud, care includ servere, rețele, mentenanta și licentele software oferite de furnizorul de cloud.
