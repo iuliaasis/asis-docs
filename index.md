@@ -26,7 +26,7 @@ Structura module ASiS ERP
 
 | Module       | Descriere         | 
 |:-------------|:------------------|
-| [Contabilitate generala]:: https://just-the-docs.github.io/just-the-docs/|Modul care colecteaza, stocheaza si proceseaza toate informatiile contabile ale intreprinderii intr-un singur sistem, oferind o vedere completa si actualizata a situatiei financiare a intreprinderii.|
+|[Contabilitate generala]:(https://github.com/Alfa-Software-Ro/asis-docs/blob/b28c5652f2843466a199b2e06798610dea9f93de/Contabilitate-generala.md)/|Modul care colecteaza, stocheaza si proceseaza toate informatiile contabile ale intreprinderii intr-un singur sistem, oferind o vedere completa si actualizata a situatiei financiare a intreprinderii.|
 |Management financiar/Financiar-Terti|Modul care permite gestionarea fluxurilor de numerar si a bugetelor.|
 |WMS/Managementul stocurilor|Modul care permite urmarirea stocurilor si inventarului, precum si administrarea aprovizionarii si a depozitarii bunurilor.|
 |Personal - Salarizare|Modul care permite administrarea angajatilor, inclusiv gestiunea salarizarii, administrarea concediilor si a altor beneficii. | 
