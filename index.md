@@ -32,7 +32,7 @@ Iata cateva exemple de aplicatii de baza ale ERP-ului ASiS:
 |[WMS/Managementul stocurilor](https://docs.asis.ro/Stocuri-wms.html)|Modul care permite urmarirea stocurilor si inventarului, precum si administrarea aprovizionarii si a depozitarii bunurilor.|
 |[Personal - Salarizare](https://docs.asis.ro/Personal-salarizare.html)|Modul care permite administrarea angajatilor, inclusiv gestiunea salarizarii, administrarea concediilor si a altor beneficii. | 
 |[Managementul Resurselor Umane](https://docs.asis.ro/Resurse-umane.html)|Modul care permite gestionarea cursurilor si a performantelor angajatilor. | 
-|[Imobilizari/Mijloace Fixe]|Modul care gestionează datele privind imobilizările corporale şi necorporale şi automatizează calculul de amortizare permițând urmărirea constantă a evoluției mijloacelor fixe. | 
+|[Imobilizari/Mijloace Fixe](https://docs.asis.ro/Imobilizari.html)|Modul care gestionează datele privind imobilizările corporale şi necorporale şi automatizează calculul de amortizare permițând urmărirea constantă a evoluției mijloacelor fixe. | 
 |[Managementul costurilor/Postcalcul]|Modulul care calculeaza costurile implicate in procesul de fabricatie, inclusiv costurile materiilor prime, costurile fortei de munca, costurile utilitatilor si alte costuri aferente procesului de productie. | 
 |[Contracte furnizori]|Modul care permite gestionarea si monitorizarea achizitiilor, inclusiv identificarea furnizorilor, realizarea de comenzi, primirea si inspectarea bunurilor si platirea furnizorilor. | 
 |[Comenzi de aprovizionare]|Modul care permite procesarea si urmarirea achizitiilor.|
