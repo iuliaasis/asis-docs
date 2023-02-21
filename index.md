@@ -27,8 +27,8 @@ Iata cateva exemple de aplicatii de baza ale ERP-ului ASiS:
 
 | Module       | Descriere         | 
 |:-------------|:------------------|
-|[Contabilitate generala](https://docs.asis.ro/Contabilitate-generala)|Modul care colecteaza, stocheaza si proceseaza toate informatiile contabile ale intreprinderii intr-un singur sistem, oferind o vedere completa si actualizata a situatiei financiare a intreprinderii.|
-|Management financiar/Financiar-Terti|Modul care permite gestionarea fluxurilor de numerar si a bugetelor.|
+|[Contabilitate generala](https://docs.asis.ro/Contabilitate-generala)|Modul care colecteaza, stocheaza si proceseaza toate informatiile contabile ale companiei intr-un singur sistem, oferind o vedere completa si actualizata a situatiei financiare a companiei.|
+|[Management financiar/Financiar-Terti](https://docs.asis.ro/Contabilitate-generala)|Modul care permite gestionarea fluxurilor de numerar si a bugetelor.|
 |WMS/Managementul stocurilor|Modul care permite urmarirea stocurilor si inventarului, precum si administrarea aprovizionarii si a depozitarii bunurilor.|
 |Personal - Salarizare|Modul care permite administrarea angajatilor, inclusiv gestiunea salarizarii, administrarea concediilor si a altor beneficii. | 
 |Managementul Resurselor Umane|Modul care permite gestionarea cursurilor si a performantelor angajatilor. | 
