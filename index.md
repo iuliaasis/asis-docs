@@ -45,3 +45,5 @@ Iata cateva exemple de aplicatii de baza ale ERP-ului ASiS:
 
 # ASiS ERP - On Premise sau SaaS (in Microsoft Azure)
 
+On-Premise
+Achizitionarea de licente ERP On-premise presupune un efort financiar consistent la inceputul implementarii ASiS ERP deoarece toata investitia legata de licente, servere, hardware, mentenanta va fi facuta integral, de la inceput, de catre client. Acest tip de implementare va face responsabil pentru tot ceea ce este legat de funcționarea software-ului. Trebuie să achiziționați infrastructura de rețea, sa asigurati alimentarea permanenta cu energie electrică, serverele, sistemul de operare, software-ul bazei de date etc. Trebuie de asemenea sa aveti o echipa de specialisti care sa asigure functionarea si update-ul sistemului. Daca aveti deja o echipa de specialisti IT care poate nu e foarte competenta pe domeniul ERP, poate e necesar sa investiti inclusiv in instruirea ei.
