@@ -1,5 +1,5 @@
 ---
-title: Contabilitate românească
+title: Contabilitate generala
 layout: home
 nav_order: 2
 has_children: false
