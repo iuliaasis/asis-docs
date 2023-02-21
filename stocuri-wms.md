@@ -5,7 +5,8 @@ parent: home
 nav_order: 4
 has_children: false
 ---
-#Modulul Stocuri/WMS
+# Modulul Stocuri/WMS
+
 Modulul Stocuri/WMS realizează gestionarea stocurilor de materii prime, ambalaje, obiecte de inventar, mărfuri, produse finite și semifabricate. Urmărirea acestor stocuri se poate face în depozit (cu localizare fizică), în custodie la terți sau în folosință la salariați.
 
 - Se bazează pe identificarea și codificarea gestiunilor, articolelor, unităților de măsură și de ambalare, locațiilor fizice în depozite.
