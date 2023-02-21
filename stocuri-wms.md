@@ -2,7 +2,7 @@
 title: Stocuri - WMS
 layout: home
 parent: home
-nav_order: 2
+nav_order: 4
 has_children: false
 ---
 #Modulul Stocuri/WMS
