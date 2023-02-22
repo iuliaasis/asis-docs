@@ -40,8 +40,8 @@ Iata cateva exemple de aplicatii de baza ale ERP-ului ASiS:
 |[Comenzi de livrare](https://docs.asis.ro/Comenzi-de-livrare.html)|Modul care permite procesarea si urmarirea comenzilor de la clienti.|
 |[Managementul productiei](https://docs.asis.ro/Managementul-productiei.html)|Modul care permite planificarea si urmarirea proceselor de productie, precum si gestionarea aprovizionarii si a inventarului de materii prime.|
 |[Managementul transporturilor/TMS](https://docs.asis.ro/TMS.html)|Modul care permite planificarea si urmarirea transporturilor de marfuri.|
-|[Parc auto/Mentenanta masini si utilaje]|Modul care poate ajuta intreprinderile sa mentina masinile in stare optima de functionare si sa evite timpii morti si costurile asociate cu defectiunile si intreruperile neasteptate ale productiei.|
-|[Punct de Vanzare]|Modul care permite gestionarea activitatii de retail intr-un magazin sau lant de magazine.|
+|[Parc auto/Mentenanta masini si utilaje](https://docs.asis.ro/TMS.html)|Modul care poate ajuta intreprinderile sa mentina masinile in stare optima de functionare si sa evite timpii morti si costurile asociate cu defectiunile si intreruperile neasteptate ale productiei.|
+|[Punct de Vanzare](https://docs.asis.ro/Punct-de-vanzare.html)|Modul care permite gestionarea activitatii de retail intr-un magazin sau lant de magazine.|
 |[Business Intelligence]|Modul care permite analiza economico-financiară sau operațională a datelor fie prin dasboard-uri interactive.|
 
 ## ASiS ERP - On Premise sau SaaS (in Microsoft Azure)
