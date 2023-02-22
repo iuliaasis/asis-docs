@@ -1,7 +1,7 @@
 ---
 title: Contracte furnizori/beneficiari
 layout: home
-nav_order: 2
+nav_order: 7
 has_children: false
 ---
 # Contracte furnizori/beneficiari
