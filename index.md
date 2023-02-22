@@ -37,7 +37,7 @@ Iata cateva exemple de aplicatii de baza ale ERP-ului ASiS:
 |[Contracte furnizori](https://docs.asis.ro/Contracte-furnizori-beneficiari.html)|Modul care permite gestionarea si monitorizarea achizitiilor, inclusiv identificarea furnizorilor, realizarea de comenzi, primirea si inspectarea bunurilor si platirea furnizorilor. | 
 |[Comenzi de aprovizionare](https://docs.asis.ro/Comenzi-de-aprovizionare.html)|Modul care permite procesarea si urmarirea achizitiilor.|
 |[Contracte clienti](https://docs.asis.ro/Contracte-furnizori-beneficiari.html)|Modul care permite procesarea si urmarirea comenzilor de la clienti, gestionarea contractelor si a ofertelor de pret, precum si administrarea relatilor cu clientii.| 
-|[Comenzi de livrare]|Modul care permite procesarea si urmarirea comenzilor de la clienti.|
+|[Comenzi de livrare](https://docs.asis.ro/Comenzi-de-livrare.html)|Modul care permite procesarea si urmarirea comenzilor de la clienti.|
 |[Managementul productiei]|Modul care permite planificarea si urmarirea proceselor de productie, precum si gestionarea aprovizionarii si a inventarului de materii prime.|
 |[Managementul transporturilor/TMS]|Modul care permite planificarea si urmarirea transporturilor de marfuri.|
 |[Parc auto/Mentenanta masini si utilaje]|Modul care poate ajuta intreprinderile sa mentina masinile in stare optima de functionare si sa evite timpii morti si costurile asociate cu defectiunile si intreruperile neasteptate ale productiei.|
