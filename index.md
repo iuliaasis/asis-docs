@@ -8,7 +8,8 @@ nav_order: 1
 {: .fs-9 }
 
 ASiS ERP este un sistem integrat de planificare a resurselor companiilor (ERP) dezvoltat de Alfa Software.
-- Despre produsul ASiS ERP, gasiti informatii si pe [www.asis.ro](https://asis.ro.html)
+- Despre produsul **ASiS ERP**, gasiti informatii si pe [www.asis.ro](https://asis.ro.html)
+- Despre compania **Alfa Software**, gasiti informatii si pe [www.asw.ro](https://asw.ro.html)
 ![image](https://user-images.githubusercontent.com/123550007/220093928-9e4e898d-42a0-47aa-9f7c-fe4f0c9a7f91.png)
 
 
@@ -16,9 +17,10 @@ ASiS ERP este conceput pentru a ajuta companiile sa-si gestioneze eficient toate
 
 Prin intermediul modulelor sale, ASiS ERP ofera functii de baza, precum gestiunea stocurilor, a achizitiilor si a vanzarilor, dar si functii mai avansate, cum ar fi planificarea productiei, gestionarea comenzilor clientilor sau analiza datelor. Sistemul poate fi personalizat si configurat pentru a se adapta nevoilor specifice ale fiecarei companii.
 
-ASiS ERP este utilizat de companii din diverse industrii, precum productie, constructii, reciclare, comert sau servicii, iar printre beneficiile sale se numara: cresterea eficientei si a productivitatii, reducerea costurilor si a erorilor, imbunatatirea managementului si a raportarii, si nu in ultimul rand, sporirea competitivitatii pe piata.
+ASiS ERP este utilizat de companii din diverse industrii, precum **productie, constructii, reciclare, comert sau servicii**, iar printre beneficiile sale se numara: cresterea eficientei si a productivitatii, reducerea costurilor si a erorilor, imbunatatirea managementului si a raportarii, si nu in ultimul rand, sporirea competitivitatii pe piata.
 
-Aplicatiile sistemului ASiS ERP includ o serie de module software care acopera majoritatea proceselor si activitatilor desfasurate intr-o intreprindere. ASiS ERP are peste 12 module standard, dar exista posibilitatea de a atasa module noi, dezvoltate pentru nevoile specifice ale unei anumite companii sau industrii.
+Aplicatiile sistemului ASiS ERP includ o serie de module software care acopera majoritatea proceselor si activitatilor desfasurate intr-o companie. 
+ASiS ERP are peste 12 module standard, dar exista posibilitatea de a atasa module noi, dezvoltate pentru nevoile specifice ale unei anumite companii sau industrii.
 
 Iata cateva exemple de aplicatii de baza ale ERP-ului ASiS:
 
