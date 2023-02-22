@@ -34,9 +34,9 @@ Iata cateva exemple de aplicatii de baza ale ERP-ului ASiS:
 |[Managementul Resurselor Umane](https://docs.asis.ro/Resurse-umane.html)|Modul care permite gestionarea cursurilor si a performantelor angajatilor. | 
 |[Imobilizari/Mijloace Fixe](https://docs.asis.ro/Imobilizari.html)|Modul care gestionează datele privind imobilizările corporale şi necorporale şi automatizează calculul de amortizare permițând urmărirea constantă a evoluției mijloacelor fixe. | 
 |[Managementul costurilor/Postcalcul](https://docs.asis.ro/Postcalcul.html)|Modulul care calculeaza costurile implicate in procesul de fabricatie, inclusiv costurile materiilor prime, costurile fortei de munca, costurile utilitatilor si alte costuri aferente procesului de productie. | 
-|[Contracte furnizori]|Modul care permite gestionarea si monitorizarea achizitiilor, inclusiv identificarea furnizorilor, realizarea de comenzi, primirea si inspectarea bunurilor si platirea furnizorilor. | 
+|[Contracte furnizori](https://docs.asis.ro/Contracte-furnizori-beneficiari.html)|Modul care permite gestionarea si monitorizarea achizitiilor, inclusiv identificarea furnizorilor, realizarea de comenzi, primirea si inspectarea bunurilor si platirea furnizorilor. | 
 |[Comenzi de aprovizionare]|Modul care permite procesarea si urmarirea achizitiilor.|
-|[Contracte clienti]|Modul care permite procesarea si urmarirea comenzilor de la clienti, gestionarea contractelor si a ofertelor de pret, precum si administrarea relatilor cu clientii.| 
+|[Contracte clienti](https://docs.asis.ro/Contracte-furnizori-beneficiari.html)|Modul care permite procesarea si urmarirea comenzilor de la clienti, gestionarea contractelor si a ofertelor de pret, precum si administrarea relatilor cu clientii.| 
 |[Comenzi de livrare]|Modul care permite procesarea si urmarirea comenzilor de la clienti.|
 |[Managementul productiei]|Modul care permite planificarea si urmarirea proceselor de productie, precum si gestionarea aprovizionarii si a inventarului de materii prime.|
 |[Managementul transporturilor/TMS]|Modul care permite planificarea si urmarirea transporturilor de marfuri.|
