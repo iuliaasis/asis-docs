@@ -6,7 +6,7 @@ nav_order: 2
 has_children: false
 ---
 
-#  ASiS ERP este disponibil în cloudul Azure Microsoft
+#  ASiS ERP este disponibil în cloud - Azure Microsoft
 
 Pentru accelerarea proceselor de digitalizare, Microsoft a dezvoltat modele noi de accesare a produselor sale, oferindu-le sub forma de servicii în cloud. Astfel, se reduce substanțial investiția inițială în hardware, este încurajată scalabilitatea și se asigură mentenanța hardware și update-urile automate software. 
 
