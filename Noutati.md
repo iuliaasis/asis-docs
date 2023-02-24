@@ -2,7 +2,7 @@
 title: Noutati
 layout: home
 nav_order: 2
-has_children: false
+has_children: true
 ---
 # Noutati ASiS ERP
 
