@@ -1,7 +1,7 @@
 ---
 title: Personal - Salarizare
 layout: home
-nav_order: 150
+nav_order: 5
 has_children: true
 ---
 

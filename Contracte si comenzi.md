@@ -1,7 +1,7 @@
 ---
 title: Contracte si comenzi
 layout: home
-nav_order: 100
+nav_order: 6
 has_children: true
 ---
 # Comenzi de livrare
