@@ -5,7 +5,7 @@ nav_order: 1
 parent: Personal - Salarizare
 ---
 
-#Modificari ASiS.PS valabile de la 01.03.2020
+# Modificari ASiS.PS valabile de la 01.03.2020
 
 01.01.2023
 - Conform OUG 168/2022 se modifica modul de calcul al deducerii personale de baza si in acelasi timp se introduce deducerea personala suplimentara.

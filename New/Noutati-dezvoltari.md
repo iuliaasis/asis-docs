@@ -5,4 +5,10 @@ nav_order: 1
 parent: Noutati
 ---
 
-# Test 2
+{: .note-title }
+> Noi functionalitati si dezvoltari ale sistemului
+>
+> Mentiuni lunare cu privire la functionalitati adaugare, corectii majore sau dezvoltari de machete si module noi
+
+{: .highlight }
+Februarie 2023
