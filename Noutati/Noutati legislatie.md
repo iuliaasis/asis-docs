@@ -1,6 +1,6 @@
 ---
 title: Noutati legislative
-layout: default
+layout: home
 nav_order: 2
 has_children: false
 parent: Noutati
