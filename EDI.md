@@ -1,8 +1,9 @@
 ---
-title: Cheltuieli si venituri in avans
+title: EDI
 layout: home
 nav_order: 65
 has_children: false
+parent: Contracte si comenzi
 ---
 # Modulul EDI (Electronic Data Interchange)
 EDI sau Electronic Data Interchange (transfer electronic de date) facilitează comunicarea între afaceri, cu precădere atunci când printre clienți se află lanțuri mari de supermarketuri sau hypermarketuri (IKA – International Key Accounts) precum: Metro, Selgros, Cora, Auchan, Lidl, Careffour, etc.
