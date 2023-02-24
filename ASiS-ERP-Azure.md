@@ -2,7 +2,6 @@
 title: ASiS ERP in Azure Cloud
 layout: home
 nav_order: 2
-has_children: true
 ---
 
 #  ASiS ERP este disponibil în cloud - Azure Microsoft
