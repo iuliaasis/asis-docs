@@ -1,8 +1,9 @@
 ---
 title: Comenzi de livrare
 layout: home
-nav_order: 2
+nav_order: 30
 has_children: false
+parent: Contracte si comenzi
 ---
 # Comenzi de livrare
 
