@@ -1,5 +1,5 @@
 ---
-title: Contracte si comenzi
+title: Contracte comenzi
 layout: home
 nav_order: 6
 has_children: true
