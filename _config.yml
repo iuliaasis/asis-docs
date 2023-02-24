@@ -23,20 +23,15 @@ color_scheme: nil
 
 callouts_level: quiet # or loud
 callouts:
-  highlight:
-    color: yellow
   important:
     title: Important
-    color: blue
+    color: #0000FF
   new:
     title: New
-    color: green
-  note:
-    title: Note
-    color: purple
+    color: #00FF00
   warning:
     title: Warning
-    color: red
+    color: #FF0000
 
 #adnotari
   kramdown:
