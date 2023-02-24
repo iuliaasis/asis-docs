@@ -3,7 +3,7 @@ title: Noutati
 layout: home
 nav_order: 3
 has_children: true
-permalink: /Noutati/Noutati
+permalink: /New/Noutati
 ---
 # Noutati ASiS ERP
 
