@@ -3,6 +3,7 @@ title: Personal - Salarizare
 layout: home
 nav_order: 5
 has_children: true
+permalink: /PS/Personal-salarizare
 ---
 
 # Personal – Salarizare
