@@ -10,5 +10,5 @@ parent: Noutati
 >
 > Mentiuni lunare cu privire la functionalitati adaugare, corectii majore sau dezvoltari de machete si module noi
 
-{: .highlight }
+{: .note }
 Februarie 2023
