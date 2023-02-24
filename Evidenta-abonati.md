@@ -2,7 +2,7 @@
 title: Evidenta Abonati
 layout: home
 parent: home
-nav_order: 2
+nav_order: 70
 has_children: false
 ---
 Aplicația de Urmărire Abonați se pretează firmelor de prestări servicii care au un număr mare de abonaţi (de exemplu firmele de distribuţie apă, salubritate, cablu tv, etc).

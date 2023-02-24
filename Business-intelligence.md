@@ -2,7 +2,7 @@
 title: Business Intelligence
 layout: home
 parent: home
-nav_order: 9
+nav_order: 50
 has_children: false
 ---
 Tablou de Bord

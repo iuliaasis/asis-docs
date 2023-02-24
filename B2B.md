@@ -1,7 +1,7 @@
 ---
 title: B2B/Business-to-Business
 layout: home
-nav_order: 2
+nav_order: 40
 has_children: false
 ---
 # B2B/Business-to-Business

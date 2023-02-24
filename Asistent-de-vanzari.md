@@ -1,7 +1,7 @@
 ---
 title: Asistent de vânzări
 layout: home
-nav_order: 10
+nav_order: 30
 has_children: false
 ---
 # Modulul Asistent de vânzări

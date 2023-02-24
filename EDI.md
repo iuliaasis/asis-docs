@@ -1,7 +1,7 @@
 ---
 title: Cheltuieli si venituri in avans
 layout: home
-nav_order: 2
+nav_order: 65
 has_children: false
 ---
 # Modulul EDI (Electronic Data Interchange)

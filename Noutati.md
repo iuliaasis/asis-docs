@@ -1,8 +1,7 @@
 ---
 title: Noutati
 layout: home
-parent: ASiS ERP - prezentare generala
-nav_order: 2
+nav_order: 1
 has_children: false
 ---
 # Noutati ASiS ERP

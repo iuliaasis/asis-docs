@@ -2,7 +2,7 @@
 title: Service Auto
 layout: home
 parent: home
-nav_order: 2
+nav_order: 190
 has_children: false
 ---
 Aplicația Service Auto este utilă companiilor ce activează în sfera serviciilor de reparații și întreținere autovehicule (service auto).

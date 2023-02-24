@@ -1,7 +1,7 @@
 ---
 title: Punct de Vânzare
 layout: home
-nav_order: 7
+nav_order: 170
 has_children: false
 ---
 Aplicația Punct de Vânzare este soluția software completă pentru gestionarea unui magazin sau a unui lanț de magazine, respectând toate fluxurile operaționale caracteristice firmelor din domeniul retail. Beneficiarul țintă îl reprezintă firmele de comerț de sine stătătoare sau cele cu mai multe magazine dispersate geografic a căror urmărire de la distanță este o necesitate pentru manageri.

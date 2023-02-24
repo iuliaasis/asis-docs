@@ -1,7 +1,7 @@
 ---
 title: Merchandising
 layout: home
-nav_order: 2
+nav_order: 120
 has_children: false
 ---
 #Modulul de Merchandising

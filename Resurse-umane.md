@@ -2,7 +2,7 @@
 title: Resurse Umane
 layout: home
 parent: home
-nav_order: 6
+nav_order: 180
 has_children: false
 ---
 Modulul de Resurse Umane este un instrument flexibil care oferă transparență procesului de management al resurselor umane dintr-o companie. Prin intermediul acestui modul sunt gestionate informațiile referitoare la performanțele angajaților (competențe, obiective) și la dezvoltarea profesională a angajaților în raport cu trainingurile parcurse.

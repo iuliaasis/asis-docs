@@ -1,7 +1,7 @@
 ---
 title: Managementul producției
 layout: home
-nav_order: 6
+nav_order: 90
 has_children: false
 ---
 
