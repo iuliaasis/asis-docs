@@ -54,3 +54,13 @@ Achizitionarea de licente ERP On-premise presupune un efort financiar consistent
 ### SaaS - Software-as-a-Service
 Utilizând un model de abonament Software-as-a-Service (Cloudul Microsoft Azure), nu trebuie să achiziționați licențele ASiS ERP sau echipamentele necesare. Singurul cost este o taxă lunara pentru serviciile cloud, care includ servere, rețele, mentenanta și licentele software oferite de furnizorul de cloud.
 - Citeste si [ASiS ERP e disponibil in Microsoft Azure](https://docs.asis.ro/ASiS-ERP-Azure.html)
+
+#### Multumim celor care contruie la intretinerea acestui material
+
+<ul class="list-style-none">
+{% for contributor in site.github.contributors %}
+  <li class="d-inline-block mr-1">
+     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"></a>
+  </li>
+{% endfor %}
+</ul>
