@@ -4,11 +4,7 @@ title: Noi functionalitati
 nav_order: 1
 parent: Noutati
 ---
-callouts:
-  warning:
-    title: Warning
-    color: red
-    
+
 {: .warning }
 > This website documents the features of the current `main` branch of the Just the Docs theme. See  for a list of releases, new features, and bug fixes.
 
