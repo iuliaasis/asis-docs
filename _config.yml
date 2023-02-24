@@ -15,26 +15,3 @@ permalink: pretty
 
 # For copy button on code
 enable_copy_code_button: true
-
-#light- default theme
-color_scheme: nil
-
-#setari randare callouts
-
-callouts_level: quiet # or loud
-callouts:
-  important:
-    title: Important
-    color: #0000FF
-  new:
-    title: New
-    color: #00FF00
-  warning:
-    title: Warning
-    color: #FF0000
-
-#adnotari
-  kramdown:
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
