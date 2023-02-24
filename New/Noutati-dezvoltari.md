@@ -1,8 +1,8 @@
 ---
-title: Noi functionalitati si dezvoltari
 layout: default
+title: Noi functionalitati
 nav_order: 1
-has_children: false
 parent: Noutati
+---
 
-#Test
+# Test 2

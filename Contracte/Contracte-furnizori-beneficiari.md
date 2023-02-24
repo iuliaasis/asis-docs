@@ -3,7 +3,7 @@ title: Contracte furnizori/beneficiari
 layout: home
 nav_order: 10
 has_children: false
-parent: Contracte si comenzi
+parent: Contracte comenzi
 ---
 # Contracte furnizori/beneficiari
 
