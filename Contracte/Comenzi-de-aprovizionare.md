@@ -3,7 +3,7 @@ title: Comenzi de aprovizionare
 layout: home
 nav_order: 20
 has_children: false
-parent: Contracte si comenzi
+parent: Contracte comenzi
 ---
 # Comenzi de aprovizionare
 

@@ -3,7 +3,7 @@ title: Comenzi de livrare
 layout: home
 nav_order: 30
 has_children: false
-parent: Contracte si comenzi
+parent: Contracte comenzi
 ---
 # Comenzi de livrare
 
