@@ -1,10 +1,13 @@
 ---
 title: Contracte furnizori/beneficiari
 layout: home
-nav_order: 7
+nav_order: 10
 has_children: false
+parent: Contracte si comenzi
 ---
 # Contracte furnizori/beneficiari
+
+
 
 Modulul Contracte furnizori/beneficiari realizează urmărirea tuturor tipurilor de contracte cu terții, respectiv de furnizori, beneficiari, leasing, rate, închirieri. Pentru fiecare contract se poate stabili un responsabil, o persoană de contact, termen de valabilitate, astfel că pentru un terț pot exista simultan mai multe contracte, chiar de același tip dar pe articole sau termene diferite.
 
