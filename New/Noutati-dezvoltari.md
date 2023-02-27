@@ -21,15 +21,28 @@ Vom posta lunar dezvoltarile de module noi sau functionalitati noi in cadrul mod
 
 ### Module noi
 
-#### Automatizare extrase bancare
-#### Documente intra-sectii
-#### Ordine de deplasare
+** Automatizare extrase bancare **
+** Documente intra-sectii **
+** Ordine de deplasare **
+** ASiSBI Stocuri**
 
 ### Functionalitati noi
 
-#### Integrare ASiS-PowerBi
-text
-#### Tab miscari Nomenclator
-#### PVhtml - comenzi
-#### Formularistica "Tichete cantar"
+** Integrare ASiS-PowerBi **
+ICON-MAP
+Util pentru afisare componente grafice pe HARTA in PowerBI (vizualizare rute, icon-uri, samd)
+Populare filtre rapoarte PowerBI integrare in frame
 
+** Tab miscari Nomenclator **
+** PVhtml - comenzi **
+** Centralizator livrari (macheta) **
+** Formularistica "Tichete cantar" **
+** Import tichete de masa (operatie) **
+** Import diurne (operatie) **
+** Conturi eFactura **
+** Optimizare calcul pret mediu **
+Default label
+{: .label }
+** Alocare manuala numar bon fiscal (operatie)**
+Blue label
+{: .label .label-blue }
