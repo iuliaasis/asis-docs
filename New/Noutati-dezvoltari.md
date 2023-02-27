@@ -22,8 +22,11 @@ Vom posta lunar dezvoltarile de module noi sau functionalitati noi in cadrul mod
 ### Module noi
 
 **Automatizare extrase bancare**
+
 **Documente intra-sectii**
+
 **Ordine de deplasare**
+
 **ASiSBI Stocuri**
 
 ### Functionalitati noi
