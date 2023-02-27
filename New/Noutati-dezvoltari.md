@@ -32,6 +32,7 @@ Util pentru afisare componente grafice pe HARTA in PowerBI cum ar fi vizualizare
 POZA
 
 ### Tab miscari Nomenclator
+![](../../assets/capturi/nomencl_miscari.jpg)
 ### PVhtml - comenzi
 ### Centralizator livrari (macheta)
 ### Formularistica "Tichete cantar"
