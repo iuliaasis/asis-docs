@@ -18,3 +18,18 @@ Vom posta lunar dezvoltarile de module noi sau functionalitati noi in cadrul mod
 {:toc}
 
 ## Februarie 2023
+
+### Module noi
+
+#### Automatizare extrase bancare
+#### Documente intra-sectii
+#### Ordine de deplasare
+
+### Functionalitati noi
+
+#### Integrare ASiS-PowerBi
+text
+#### Tab miscari Nomenclator
+#### PVhtml - comenzi
+#### Formularistica "Tichete cantar"
+
