@@ -24,3 +24,11 @@ Acest format este pus la dispoziție de bănci și poate fi importat în ASiS ER
 Chiar dacă formatul este unul standard, pot exista variațiuni în funcție de bancă, însă în majoritatea cazurilor este identic. Totuși, chiar dacă există mici diferențe, nu există probleme în gestionarea fișierelor de la toate băncile în ASiS ERP. 
 
 Extrasele bancare pot fi importate zilnic sau lunar.
+
+## Aspecte privind un extras bancar
+
+Pentru companiile medii si mari din Romania, un extras bancar poate varia intre 20 si 1000 de pagini de operatiuni lunare. 
+În medie, sunt procesate aproximativ 300 de pagini de operațiuni bancare lunar. Fiecare companie are cel puțin un cont bancar în lei și într-o altă valută, iar aceste conturi sunt gestionate prin intermediul a cel puțin două bănci.
+
+Printre cele mai frecvente aspecte întâlnite în extrasele bancare ale companiilor se numără plățile către furnizori, încasările de la clienți, plățile diverse, vânzările realizate prin intermediul terminalelor de plată (POS), plățile și avansurile pentru diurne, plățile de salarii și conversiile valutare.
+
