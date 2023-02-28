@@ -27,8 +27,8 @@ Extrasele bancare pot fi importate zilnic sau lunar.
 
 ## Aspecte privind un extras bancar
 
-Pentru companiile medii si mari din Romania, un extras bancar poate varia intre 20 si 1000 de pagini de operatiuni lunare. 
-În medie, sunt procesate aproximativ 300 de pagini de operațiuni bancare lunar. Fiecare companie are cel puțin un cont bancar în lei și într-o altă valută, iar aceste conturi sunt gestionate prin intermediul a cel puțin două bănci.
+Pentru companiile medii si mari din Romania, un extras bancar poate varia intre **20 si 1000 de pagini de operatiuni lunare**. 
+În medie, sunt procesate aproximativ **300 de pagini** de operațiuni bancare lunar. Fiecare companie are cel puțin un cont bancar în lei și într-o altă valută, iar aceste conturi sunt gestionate prin intermediul a cel puțin două bănci.
 
-Printre cele mai frecvente aspecte întâlnite în extrasele bancare ale companiilor se numără plățile către furnizori, încasările de la clienți, plățile diverse, vânzările realizate prin intermediul terminalelor de plată (POS), plățile și avansurile pentru diurne, plățile de salarii și conversiile valutare.
+Printre cele mai frecvente aspecte întâlnite în extrasele bancare ale companiilor se numără **plățile către furnizori, încasările de la clienți, plățile diverse, vânzările realizate prin intermediul terminalelor de plată (POS), plățile și avansurile pentru diurne, plățile de salarii și conversiile valutare.**
 
