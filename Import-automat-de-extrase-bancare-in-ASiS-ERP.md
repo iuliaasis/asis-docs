@@ -32,6 +32,8 @@ Pentru companiile medii si mari din Romania, un extras bancar poate varia intre 
 
 Printre cele mai frecvente aspecte întâlnite în extrasele bancare ale companiilor se numără **plățile către furnizori, încasările de la clienți, plățile diverse, vânzările realizate prin intermediul terminalelor de plată (POS), plățile și avansurile pentru diurne, plățile de salarii și conversiile valutare.**
 
+Nota: importul de extrase bancare se poate realiza daca in cadrul firmei exista procese bine definite care functioneaza. De exemplu: facturi inaintea incasarilor, etc.
+
 ## Flux operational pentru importul de extrase bancare
 Sunt urmăriți 3 pași:
 - Preluarea datelor bancare într-o tabelă de lucru din sistemul ASiS ERP și, prin folosirea unor algoritmi inteligenți -interpretarea liniilor din extrasul bancar
