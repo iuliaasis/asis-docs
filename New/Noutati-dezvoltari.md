@@ -20,7 +20,7 @@ Vom posta lunar dezvoltarile de module noi sau functionalitati noi in cadrul mod
 ### Automatizare extrase bancare
 
 Acest modul permite importul automat de extrase bancare în ASiS ERP de la orice bancă din România (BRD, Raiffeisen, Banca Transilvania, etc) prin citirea fisierului SWIFT MT940 si recunoasterea operatiunilor repetitive din extras.
-- Citește si Integrarea automată a extraselor bancare in ASiS ERP
+- Citește si [Integrarea automată a extraselor bancare in ASiS ERP]
 
 ### Documente intra-sectii
 ### Ordine de deplasare
