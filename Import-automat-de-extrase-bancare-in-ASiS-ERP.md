@@ -8,6 +8,14 @@ has_children: false
 # Importul automat de extrase bancare în ASiS ERP
 Procesul automat de import al extraselor bancare în sistemul ASiS ERP presupune **preluarea automată a informațiilor din fișierul SWIFT MT940** pus la dispoziție de bănci și integrarea acestor informații în ASiS ERP pentru reconcilierea conturilor, raportarea finaciară și gestionarea bugetelor. 
 
+## Beneficiile importului automat a extraselor bancare in ASiS ERP
+
+- Optimizarea **fluxului de lichidități** prin eficientizarea activității
+- Existența unor **situații în timp real** asupra fluxurilor monetare
+- Eliminarea în mare parte a proceselor manuale
+- Îmbunătățirea ergonomiei sistemului de management financiar
+- Flexibilitate: pachetul instalare – configurare – implementare este ușor de asimilat 
+
 ## Ce este fișierul SWIFT MT940?
 
 SWIFT MT940, supranumit și extras electronic bancar este un fișier standard cu extensia *.STA, care conține toate operațiunile unui cont, numărul extrasului, soldurile inițiale și cele finale. 
