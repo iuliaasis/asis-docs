@@ -61,6 +61,9 @@ De exemplu, un comision bancar va fi o plata diversa, cu contul contabil atasat 
 ### - Cum aloca sistemul ASiS ERP platile/sumele de pe un extras bancar pe un furnizor cu mai multe facturi in sistem?
 Sistemul le aloca FIFO, dar exista si posibilitatea de a selecta o anumita factura la plata prin completarea campului **Factura** din macheta de operare **Extrase**.
 
+### - La ce se mai utilizeaza campul **Factura** din macheta de operare **Extrase bancare**?
+Acest camp este gandit si pentru operatiuni precum: Incasare storno, Plata furnizor - incasare storno, Plata storno - incasare beneficiar. 
+
 
 
 
