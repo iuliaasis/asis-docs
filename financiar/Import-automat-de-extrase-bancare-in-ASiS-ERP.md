@@ -39,31 +39,31 @@ Sunt urmăriți 3 pași:
 
 ### 1. Preluarea datelor bancare într-o tabelă de lucru din sistemul ASiS ERP și, prin folosirea unor algoritmi inteligenți -interpretarea liniilor din extrasul bancar
 
-![](../../assets/capturi/Captura 1 - Operatie de import bancar.png)
+![](../../assets/capturi/Captura1-Operatiedeimportbancar.png)
 
 - Se importa fisierul MT940 oferit de banca. Fișierul emis de bancă este preluat într-o tabelă de lucru în care datele pot fi vizualizate, tranzacțiile sunt recunoscute de persoana responsabilă de la departamentul financiar, iar o parte dintre acestea sunt recunoscute inclusiv de sistemul ASiS. 
 - Dupa operatia de import, se pot observa detalii precum: contul, contul IBAN, numarul extrasului, numar de pozitii de pe extras si ulterior, la generarea Registrului, se va vedea si numarul de pozitii generate in Registru.
 
-[](../../assets/capturi/Captura 2- primul import de extrase bancare.png)
+![](../../assets/capturi/Captura2-primulimportdeextrasebancare.png)
 - La primul import, se pot vedea ca majoritatea operatiunilor sunt neprocesate (marcate cu rosu), dar exista si cateva procesate de sistemul ASiS (cu negru). 
 - La o verificare initiala a operatiunilor procesate, se poate salva IBAN-ul tertului si sistemul, la urmatorul import, va utilizat IBAN-ul salvat. 
 
 
 ### 2. Definirea regulilor de încadrare a operațiunilor manual, în primă instanță și apoi sistemul le recunoaște singur. Dupa o lună de "human - machine learning" a sistemului ASiS ERP, 96% din tranzactii sunt recunoscute de sistem conform regulilor stabilite.
 
-[](../../assets/capturi/Captura 3 - Definire reguli import extrase bancare.png)
+![](../../assets/capturi/Captura3-Definirereguliimportextrasebancare.png)
 - Pentru operatiunile neprocesate de pe extras, se poate incepe cu definirea regulilor, pozitie cu pozitie. 
 De exemplu, un comision bancar va fi o plata diversa, cu contul contabil atasat (Cheltuieli cu servicii bancare). ASiS ERP sugereaza utilizatorului regula de contare de exemplu, dar utilizatorul decide care va fi incadrarea unei operatiuni si ca si cont contabil si ca si IBAN, etc. 
 - Definirea unei reguli (de exemplu de Comision) inseamna ca toate operatiunile pe care sistemul le detecteaza ca fiind Comisioane de pe extras, sunt procesate conform regulii Comision.
 
-[](../../assets/capturi/Captura 4 - Operare exceptii extrase bancare.png)
+![](../../assets/capturi/Captura4-Operareexceptiiextrasebancare.png)
 - Exceptiile de la orice reguli se opereaza manual conform stilului de introducere/modificare date din macheta de Registru de Banca din ASiS ERP.
 - Se definesc reguli de încadrare a tuturor operațiunilor, iar pe baza unui mecanism prin care soluția ASiS ERP învață de la oameni cum să încadreze diverse operațiuni bancare care se regăsesc pe extras, la următoarea preluare a extrasului pentru alte perioade de timp, se observă că operațiunile inițial neidentificate se împuținează considerabil. Tot mai multe fișiere vor fi astfel recunoscute de program, automatizându-se procesele. 
 
 
 ### 3. Generarea Registrului de bancă
 
-[](../../assets/capturi/Captura 5 - Generare registru de banca din extrase bancare.png)
+![](../../assets/capturi/Captura5-Generareregistrudebancadinextrasebancare.png)
 - In cadrul machetei de Extras bancar (aceeasi macheta in care se regasesc operatiunile bancare de pe extras) se apasa butonul de **Generare registru** si acesta e generat automat de ASiS ERP. 
 - Toate tranzactiile generate automat se vad in macheta Registru de banca. 
 
