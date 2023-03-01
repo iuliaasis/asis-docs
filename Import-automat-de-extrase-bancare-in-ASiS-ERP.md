@@ -47,6 +47,7 @@ Sunt urmăriți 3 pași:
 ### 2. Definirea regulilor de încadrare a operațiunilor manual, în primă instanță și apoi sistemul le recunoaște singur. Dupa o lună de "human - machine learning" a sistemului ASiS ERP, 96% din tranzactii sunt recunoscute de sistem conform regulilor stabilite.
 
 - Pentru operatiunile neprocesate de pe extras, se poate incepe cu definirea regulilor, pozitie cu pozitie. 
+De exemplu, un comision bancar va fi o plata diversa, cu contul contabil atasat (Cheltuieli cu servicii bancare). ASiS ERP sugereaza utilizatorului regula de contare de exemplu, dar utilizatorul decide care va fi incadrarea unei operatiuni si ca si cont contabil si ca si IBAN, etc. 
 
 ### 3. Generarea Registrului de bancă
 
