@@ -27,7 +27,7 @@ Extrasele bancare pot fi importate zilnic sau lunar.
 
 ## Aspecte privind un extras bancar
 
-Pentru companiile medii si mari din Romania, un extras bancar poate varia intre **20 si 1000 de pagini de operatiuni lunare**. 
+Pentru companiile medii si mari din Romania, un extras bancar poate varia intre **30 si 1000 de pagini de operatiuni lunare**. 
 În medie, sunt procesate aproximativ **300 de pagini** de operațiuni bancare lunar. Fiecare companie are cel puțin un cont bancar în lei și într-o altă valută, iar aceste conturi sunt gestionate prin intermediul a cel puțin două bănci.
 
 Printre cele mai frecvente aspecte întâlnite în extrasele bancare ale companiilor se numără **plățile către furnizori, încasările de la clienți, plățile diverse, vânzările realizate prin intermediul terminalelor de plată (POS), plățile și avansurile pentru diurne, plățile de salarii și conversiile valutare.**
@@ -36,7 +36,11 @@ Nota: importul de extrase bancare se poate realiza daca in cadrul firmei exista 
 
 ## Flux operational pentru importul de extrase bancare
 Sunt urmăriți 3 pași:
-- Preluarea datelor bancare într-o tabelă de lucru din sistemul ASiS ERP și, prin folosirea unor algoritmi inteligenți -interpretarea liniilor din extrasul bancar
+
+### Preluarea datelor bancare într-o tabelă de lucru din sistemul ASiS ERP și, prin folosirea unor algoritmi inteligenți -interpretarea liniilor din extrasul bancar
+
+- Se importa fisierul MT940 oferit de banca. Dupa operatia de import, se pot observa detalii precum: contul, contul IBAN, numarul extrasului, numar de pozitii de pe extras si ulterior, la generarea Registrului, se vor vedea si numarul de pozitii generate in Registru.
+
 - Definirea regulilor de încadrare a operațiunilor manual, în primă instanță și apoi sistemul le recunoaște singur. Dupa o lună de "human - machine learning" a sistemului ASiS ERP, 96% din tranzactii sunt recunoscute de sistem conform regulilor stabilite.
 - Generarea Registrului de bancă
 
