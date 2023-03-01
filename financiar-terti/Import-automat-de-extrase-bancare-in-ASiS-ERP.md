@@ -72,6 +72,7 @@ Recomandarea este ca daca se doreste modificarea pentru o pozitie gresita din Re
 
 ## Intrebari frecvente
 ### - Cum aloca sistemul ASiS ERP platile/sumele de pe un extras bancar pe un furnizor cu mai multe facturi in sistem?
+[](../../assets/capturi/Captura 6- Campul de operare al facturilor in extrase bancare.png)
 Sistemul le aloca FIFO, dar exista si posibilitatea de a selecta o anumita factura la plata prin completarea campului **Factura** din macheta de operare **Extrase**.
 
 ### - La ce se mai utilizeaza campul **Factura** din macheta de operare **Extrase bancare**?
