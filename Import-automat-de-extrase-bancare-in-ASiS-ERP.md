@@ -5,7 +5,7 @@ parent: Financiar-terti
 nav_order: 2
 has_children: false
 ---
-# Importul automat de extrase bancare în ASiS ERP
+# Robotizare/Integrare API: Importul automat de extrase bancare în ASiS ERP
 Procesul automat de import al extraselor bancare în sistemul ASiS ERP presupune **preluarea automată a informațiilor din fișierul SWIFT MT940** pus la dispoziție de bănci și integrarea acestor informații în ASiS ERP pentru reconcilierea conturilor, raportarea finaciară și gestionarea bugetelor. 
 
 ## Beneficiile importului automat a extraselor bancare in ASiS ERP
