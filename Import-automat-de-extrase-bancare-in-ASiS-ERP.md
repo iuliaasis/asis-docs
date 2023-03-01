@@ -59,6 +59,7 @@ De exemplu, un comision bancar va fi o plata diversa, cu contul contabil atasat 
 - Toate tranzactiile generate automat se vad in macheta Registru de banca. 
 
 Nota: Pozitiile din Registru de banca nu se pot modifica. Ele sunt legate de cele din **Extras**.
+Recomandarea este ca daca se doreste modificarea pentru o pozitie gresita din Registru, suma in dreptul ei sa fie pusa 0 si pozitia respectiva sa fie culeasa manual inca o data.
 
 ## Intrebari frecvente
 ### - Cum aloca sistemul ASiS ERP platile/sumele de pe un extras bancar pe un furnizor cu mai multe facturi in sistem?
