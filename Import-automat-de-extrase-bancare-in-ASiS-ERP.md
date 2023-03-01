@@ -37,7 +37,7 @@ Nota: importul de extrase bancare se poate realiza daca in cadrul firmei exista 
 ## Flux operational pentru importul de extrase bancare
 Sunt urmăriți 3 pași:
 - Preluarea datelor bancare într-o tabelă de lucru din sistemul ASiS ERP și, prin folosirea unor algoritmi inteligenți -interpretarea liniilor din extrasul bancar
-- Definirea regulilor de încadrare a operațiunilor manual, în primă instanță și apoi sistemul le recunoaște singur.
+- Definirea regulilor de încadrare a operațiunilor manual, în primă instanță și apoi sistemul le recunoaște singur. Dupa o lună de "human - machine learning" a sistemului ASiS ERP, 96% din tranzactii sunt recunoscute de sistem conform regulilor stabilite.
 - Generarea Registrului de bancă
 
 Fișierul emis de bancă este preluat într-o tabelă de lucru în care datele pot fi vizualizate, tranzacțiile sunt recunoscute de persoana responsabilă de la departamentul financiar, iar o parte dintre acestea sunt recunoscute inclusiv de sistemul ASiS. 
