@@ -2,7 +2,8 @@
 title: Financiar - terți
 layout: home
 nav_order: 78
-has_children: false
+has_children: true
+permalink: /financiar-terti/Financiar-terti
 ---
 # Modulul Financiar- Terți
 
