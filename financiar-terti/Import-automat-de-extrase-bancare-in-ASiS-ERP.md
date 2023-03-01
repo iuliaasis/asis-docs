@@ -39,7 +39,7 @@ Sunt urmăriți 3 pași:
 
 ### 1. Preluarea datelor bancare într-o tabelă de lucru din sistemul ASiS ERP și, prin folosirea unor algoritmi inteligenți -interpretarea liniilor din extrasul bancar
 
-![](../../assets/capturi/Captura 1 - Operatie de import bancar.png)
+[](../../assets/capturi/Captura 1 - Operatie de import bancar.png)
 
 - Se importa fisierul MT940 oferit de banca. Fișierul emis de bancă este preluat într-o tabelă de lucru în care datele pot fi vizualizate, tranzacțiile sunt recunoscute de persoana responsabilă de la departamentul financiar, iar o parte dintre acestea sunt recunoscute inclusiv de sistemul ASiS. 
 - Dupa operatia de import, se pot observa detalii precum: contul, contul IBAN, numarul extrasului, numar de pozitii de pe extras si ulterior, la generarea Registrului, se va vedea si numarul de pozitii generate in Registru.
