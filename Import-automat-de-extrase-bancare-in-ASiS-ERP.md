@@ -48,6 +48,7 @@ Sunt urmăriți 3 pași:
 
 - Pentru operatiunile neprocesate de pe extras, se poate incepe cu definirea regulilor, pozitie cu pozitie. 
 De exemplu, un comision bancar va fi o plata diversa, cu contul contabil atasat (Cheltuieli cu servicii bancare). ASiS ERP sugereaza utilizatorului regula de contare de exemplu, dar utilizatorul decide care va fi incadrarea unei operatiuni si ca si cont contabil si ca si IBAN, etc. 
+- Definirea unei reguli (de exemplu de Comision) inseamna ca toate operatiunile pe care sistemul le detecteaza ca fiind Comisioane de pe extras, sunt procesate conform regulii Comision.
 
 ### 3. Generarea Registrului de bancă
 
