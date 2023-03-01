@@ -58,7 +58,9 @@ De exemplu, un comision bancar va fi o plata diversa, cu contul contabil atasat 
 - In cadrul machetei de Extras bancar (aceeasi macheta in care se regasesc operatiunile bancare de pe extras) se apasa butonul de **Generare registru** si acesta e generat automat de ASiS ERP. 
 
 ## Intrebari frecvente
-### Cum aloca sistemul ASiS ERP platile/sumele de pe un extras bancar pe un furnizor cu mai multe facturi in sistem?
+### - Cum aloca sistemul ASiS ERP platile/sumele de pe un extras bancar pe un furnizor cu mai multe facturi in sistem?
+Sistemul le aloca FIFO, dar exista si posibilitatea de a selecta o anumita factura la plata prin completarea campului **Factura** din macheta de operare **Extrase**.
+
 
 
 
