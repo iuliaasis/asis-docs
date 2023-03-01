@@ -37,12 +37,18 @@ Nota: importul de extrase bancare se poate realiza daca in cadrul firmei exista 
 ## Flux operational pentru importul de extrase bancare
 Sunt urmăriți 3 pași:
 
-### Preluarea datelor bancare într-o tabelă de lucru din sistemul ASiS ERP și, prin folosirea unor algoritmi inteligenți -interpretarea liniilor din extrasul bancar
+### 1. Preluarea datelor bancare într-o tabelă de lucru din sistemul ASiS ERP și, prin folosirea unor algoritmi inteligenți -interpretarea liniilor din extrasul bancar
 
-- Se importa fisierul MT940 oferit de banca. Dupa operatia de import, se pot observa detalii precum: contul, contul IBAN, numarul extrasului, numar de pozitii de pe extras si ulterior, la generarea Registrului, se vor vedea si numarul de pozitii generate in Registru.
+- Se importa fisierul MT940 oferit de banca. Dupa operatia de import, se pot observa detalii precum: contul, contul IBAN, numarul extrasului, numar de pozitii de pe extras si ulterior, la generarea Registrului, se va vedea si numarul de pozitii generate in Registru.
+- La primul import, se pot vedea ca majoritatea operatiunilor sunt neprocesate (marcate cu rosu), dar exista si cateva procesate de sistemul ASiS (cu negru). 
+- La o verificare initiala a operatiunilor procesate, se poate salva IBAN-ul tertului si sistemul, la urmatorul import, va utilizat IBAN-ul salvat. 
+- Pentru operatiunile neprocesate de pe extras, se poate incepe cu definirea regulilor, pozitie cu pozitie. 
 
-- Definirea regulilor de încadrare a operațiunilor manual, în primă instanță și apoi sistemul le recunoaște singur. Dupa o lună de "human - machine learning" a sistemului ASiS ERP, 96% din tranzactii sunt recunoscute de sistem conform regulilor stabilite.
-- Generarea Registrului de bancă
+### 2. Definirea regulilor de încadrare a operațiunilor manual, în primă instanță și apoi sistemul le recunoaște singur. Dupa o lună de "human - machine learning" a sistemului ASiS ERP, 96% din tranzactii sunt recunoscute de sistem conform regulilor stabilite.
+
+- Pentru operatiunile neprocesate de pe extras, se poate incepe cu definirea regulilor, pozitie cu pozitie. 
+
+### 3. Generarea Registrului de bancă
 
 Fișierul emis de bancă este preluat într-o tabelă de lucru în care datele pot fi vizualizate, tranzacțiile sunt recunoscute de persoana responsabilă de la departamentul financiar, iar o parte dintre acestea sunt recunoscute inclusiv de sistemul ASiS. 
 Ulterior se definesc reguli de încadrare a tuturor operațiunilor, iar pe baza unui mecanism prin care soluția ASiS ERP învață de la oameni cum să încadreze diverse operațiuni bancare care se regăsesc pe extras, la următoarea preluare a extrasului pentru alte perioade de timp, se observă că operațiunile inițial neidentificate se împuținează considerabil. Tot mai multe fișiere vor fi astfel recunoscute de program, automatizându-se procesele. 
