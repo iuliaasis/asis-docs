@@ -62,6 +62,8 @@ De exemplu, un comision bancar va fi o plata diversa, cu contul contabil atasat 
 
 
 ### 3. Generarea Registrului de bancă
+
+[](../../assets/capturi/Captura 5 - Generare registru de banca din extrase bancare.png)
 - In cadrul machetei de Extras bancar (aceeasi macheta in care se regasesc operatiunile bancare de pe extras) se apasa butonul de **Generare registru** si acesta e generat automat de ASiS ERP. 
 - Toate tranzactiile generate automat se vad in macheta Registru de banca. 
 
