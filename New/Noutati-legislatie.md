@@ -21,9 +21,9 @@ parent: Noutati
 	- contravaloarea abonamentelor pentru utilizarea facilitatilor sportive în vederea practicării sportului**
 
 - Pentru aceata in ASiS ERP am definit in machetele de corectii/subtipuri de corectii (functie de cum se lucreaza) tipuri/subtipuri de corectii pentru fiecare din aceste tipuri de venituri neimpozabile.
-- 
+
 - Pe langa acestea pentru clauza de mobilitate, daca aceasta este de natura sporului (adica se acorda procent/suma functie de orele lucrate) si este inregistrata deja ca si spor in dreptul salariatilor am introdus in macheta **Configurari Sporuri**, posibilitatea de marcare a acelui spor care reprezinta clauza de mobilitate.
-- 
+
 - Sumele acordate salariatilor pentru telemunca se vor opera pe **corectia N cu conditia ca parametru PS,NUASS-N sa aiba valoare logica True**.
 - La calcul salarii am tratat urmatoarele automatizari:
 
@@ -49,7 +49,7 @@ Deducerea personala suplimentara se acorda astfel:
 	- In cazul in care copilul este intretinut de ambii parinti, deducerea personala suplimentara prevazuta mai sus se acorda unuia dintre parinti prin prezentarea documentului care atesta inscrierea copilului intr-o unitate de invatamant si a unei declaratii pe propria raspundere din partea parintelui beneficiar.
 	- In situatia in care parintele desfasoara activitate la mai multi angajatori, in plus fata de documentele prevazute la punctul de mai sus parintele care beneficiaza de deducerea personala suplimentara prevazuta mai sus are obligatia sa declare ca nu beneficiaza de astfel de deduceri de la un alt angajator.
 
-- In ASIS ERP in macheta Salariati, tabul Persoane in intretinere s-a introdus campul Deducere suplimentara prin care se va marca in dreptul copilului daca acesta participa la deducerea suplimentara. 
+- In ASiS ERP in macheta Salariati, tabul Persoane in intretinere s-a introdus campul Deducere suplimentara prin care se va marca in dreptul copilului daca acesta participa la deducerea suplimentara. 
 
 - Pentru deducerea de 15% din salariul de baza minim brut, DACA se lucreaza cu cetateni straini care la momentul angajarii nu au CNP din care sa se poata determina data nasterii (si apoi implicit varsta) trebuie ca in ASiSria in macheta Salariati sa se activeze campul Data nasterii si apoi sa se completeze. Daca NU se lucreaza cu asemenea cetateni straini, NU este nevoie de activarea campului Data nasterii intrucat ea rezulta din CNP.
 
