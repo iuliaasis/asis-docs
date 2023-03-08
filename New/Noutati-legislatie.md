@@ -100,19 +100,23 @@ Plafonul aferent valorii a 3 salarii de bază corespunzătoare locului de muncă
 
 #### Exemplu calcul diurna pentru deplasare in afara tarii pentru o firma din sectorul privat:
 
-Diurna externa – angajatul cu salariul de baza de 3000 de lei brut este trimis intr-o delegatie in strainatate, timp de 5 zile lucratoare, in luna curenta (Mai 2023).
-Angajatul va fi trimis in Germania in delegatie, tara pentru care diurna externa pe zi 35 euro pentru sectorul public, asadar, este 87,5 euro pentru sectorul privat (35×2,5)
-Angajatul ar putea beneficia pentru o diurna de 437.5 euro, adica 2,119.07 lei (calculat la un curs euro de 4.84 lei)
-Aceasta valoare este mai mare decat plafonul de 2045,45 calculat. Rezulta ca 2045,45 lei vor fi diurna neimpozabila, iar diferența de 73,62 lei va fi impozabila.
+- Diurna externa – angajatul cu salariul de baza de 3000 de lei brut este trimis intr-o delegatie in strainatate, timp de 5 zile lucratoare, in luna curenta (Mai 2023).
+- Angajatul va fi trimis in Germania in delegatie, tara pentru care diurna externa pe zi 35 euro pentru sectorul public, asadar, este 87,5 euro pentru sectorul privat (35×2,5)
+- Angajatul ar putea beneficia pentru o diurna de 437.5 euro, adica 2,119.07 lei (calculat la un curs euro de 4.84 lei)
+- Aceasta valoare este mai mare decat plafonul de 2045,45 calculat. Rezulta ca 2045,45 lei vor fi diurna neimpozabila, iar diferența de 73,62 lei va fi impozabila.
 	Pentru a putea gestiona in ASiS.PS diurnele impozabile si neimpozabile este nevoie ca perioadele de diurna/detasare pe salariati cu numarul de zile/indemnizatia zilnica sa fie operate/preluate/generate in macheta/tabela Diurne. In macheta/tabela CuantumDiurne se pot defini diurnele la nivel de tara (daca exista delegatii/detasari in afara tarii), precum si sumele acordate pe teritoriul Romaniei.
-	Ex. de operare date in macheta Cuantum Diurne: 
-Tara: Germania, Valuta: EUR, Diurna: 87.5 EUR, Diurna neimpozabila 87.5 EUR. Daca diurna acordata ar
-fi de sa zicem 100 EUR, atunci automat diferenta de 12.5 EUR (100-87.5) este diurna impozabila. Diurna neimpozabila de 87.5 EUR va intra la plafonare functie de plafonul reprezentat de 3 salarii de baza corespunzatoare locului de munca.
+	**Ex. de operare date in macheta Cuantum Diurne:** 
+**- Tara: Germania, Valuta: EUR, Diurna: 87.5 EUR, Diurna neimpozabila 87.5 EUR. Daca diurna acordata ar
+fi de sa zicem 100 EUR, atunci automat diferenta de 12.5 EUR (100-87.5) este diurna impozabila. Diurna neimpozabila de 87.5 EUR va intra la plafonare functie de plafonul reprezentat de 3 salarii de baza corespunzatoare locului de munca.**
+	
 	In sensul celor de mai sus s-a introdus corectia noua (cod W-) Diurne neimpozabile. Aceasta corectie este inserata automat in tabela tipcor la rularea obiectelor SQL de salarii.
+	
 	In macheta Configurare optiuni PS, pe parametrii: DIUNEIMP, DIUIMP si CODBDIURN trebuie sa se configureze faptul ca se lucreaza cu:
-Diurne neimpozabile (Optiune=Da si Valoare=Codul tipului de corectie pentru diurne neimpozabile=W-). Daca diurna s-a virat deja inainte de lichidare drepturilor salariale aferente lunii de calcul, atunci in loc de codul corectiei W- se va utiliza codul B1 (Indemniz. Delegare neimpozab).
-Diurne impozabile (Optiune=Da si Valoare=Codul tipului de corectie - unul din tipurile de corectie cu efect in venitul brut). In documentul din google drive de la adresa: https://docs.google.com/document/d/1Rmm5mMThHqrO1QAxes19TXIb-VO4QEigFmihK569iTU/edit?usp=sharing sunt specificatii cu privire la tipurile de corectii si efectul lor.
-Cod de beneficiar de retinere diurne setat in parametru CODBDIURN in campul valoare alfanumerica.
+	
+- Diurne neimpozabile (Optiune=Da si Valoare=Codul tipului de corectie pentru diurne neimpozabile=W-). Daca diurna s-a virat deja inainte de lichidare drepturilor salariale aferente lunii de calcul, atunci in loc de codul corectiei W- se va utiliza codul B1 (Indemniz. Delegare neimpozab).
+- Diurne impozabile (Optiune=Da si Valoare=Codul tipului de corectie - unul din tipurile de corectie cu efect in venitul brut). 
+- 
+- Cod de beneficiar de retinere diurne setat in parametru CODBDIURN in campul valoare alfanumerica.
 La calcul salarii, aplicatia determina valoarea diurnelor neimpozabile si impozabile pentru fiecare salariat tinand cont de perioadele de diurna/detasare, indemnizatia zilnica si plafonul specificat mai sus si genereaza in macheta/Tabela Corectii aceste sume.
 
 
