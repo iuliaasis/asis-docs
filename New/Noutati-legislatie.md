@@ -20,7 +20,7 @@ parent: Noutati
 	- sumele acordate angajatilor care desfasoara activitati in regim de telemunca in limita unui plafon de 400 lei lunar.
 	- contravaloarea abonamentelor pentru utilizarea facilitatilor sportive în vederea practicării sportului
 
-- Pentru aceata in ASiS am definit in machetele de corectii/subtipuri de corectii (functie de cum se lucreaza) tipuri/subtipuri de corectii pentru fiecare din aceste tipuri de venituri neimpozabile.
+- Pentru aceata in ASiS ERP am definit in machetele de corectii/subtipuri de corectii (functie de cum se lucreaza) tipuri/subtipuri de corectii pentru fiecare din aceste tipuri de venituri neimpozabile.
 - Pe langa acestea pentru clauza de mobilitate, daca aceasta este de natura sporului (adica se acorda procent/suma functie de orele lucrate) si este inregistrata deja ca si spor in dreptul salariatilor am introdus in macheta Configurari Sporuri, posibilitatea de marcare a acelui spor care reprezinta clauza de mobilitate.
 - Sumele acordate salariatilor pentru telemunca se vor opera pe corectia N cu conditia ca parametru PS,NUASS-N sa aiba valoare logica True.
 - La calcul salarii am tratat urmatoarele automatizari:
@@ -53,3 +53,12 @@ Deducerea personala suplimentara se acorda astfel:
 - S-au modificat procedurile de calcul salarii pentru calcul corectii brut din net - s-a tratat sa se tina cont si aici de noul mod de calcul al deducerilor personale baza si suplimentare.
 
 - S-au modificat in ASiS procedurile de calcul salarii pentru calculul deducerii personale de baza si suplimentare. Momentan in Fluturasi.RDL, Stat de plata.RDL, Stat de plata restrans.RDL am afisat deducerea suplimentara impreuna cu deducerea de baza. In Fluturas centralizator.RDL, Stat de plata directia muncii.RDL si Fluturasul HTML2PDF sau cel cu formular XML am afisat deducerea suplimentara separat de deducerea personala. 
+
+### Salariu neimpozabil 200 de RON
+
+- Calcul Salar neimpozabil 200 RON conform Ordonantei 168. Conform Articolul XXXVII din Ordonanta 168 in cazul salariatilor care desfasoara activitate in baza contractului individual de munca, incadrati cu norma întreaga, la locul unde se afla functia de baza, nu se datorează impozit pe venit si nu se cuprinde in baza lunara de calcul al contributiilor sociale obligatorii suma de 200 lei/luna, reprezentand venituri din salarii si asimilate salariilor, daca sunt indeplinite cumulativ urmatoarele conditii:
+	- nivelul salariului de baza brut lunar stabilit potrivit contractului individual de munca, fara a include sporuri si alte adaosuri, este egal cu nivelul salariului minim brut pe tara garantat (3000 RON in 2023)
+	- venitul brut realizat din salarii si asimilate salariilor, astfel cum este definit la art. 76 alin. (1)-(3) din Legea nr. 227/2015, cu modificarile si completarile ulterioare, in baza aceluiasi contract individual de munca, pentru aceeasi luna, nu depaseste nivelul de 4.000 lei inclusiv.
+
+- Suma de 200 RON se diminueaza functie de perioada lucrata in unitate sau cat timp contractul este activ. Fata de varianta tratata pentru anul 2022 cand nu s-a inclus aceasta suma in venitul total (s-a inclus doar in venitul net si in restul de plata), pentru anul 2023 am inclus aceasta suma in Venitul total si apoi am diminuat bazele de calcul la CAS, CASS, CAM si Impozit cu aceasta suma. Am tratat astfel speta pentru anul 2023 intrucat conditia de nedepasire a venitului brut de 4000 RON, impunea stabilirea acestei dupa determinarea venitului total. S-a modificat calcul de salarii in ASiS pentru aceasta suma neimpozabila.
+
