@@ -62,3 +62,19 @@ Deducerea personala suplimentara se acorda astfel:
 
 - Suma de 200 RON se diminueaza functie de perioada lucrata in unitate sau cat timp contractul este activ. Fata de varianta tratata pentru anul 2022 cand nu s-a inclus aceasta suma in venitul total (s-a inclus doar in venitul net si in restul de plata), pentru anul 2023 am inclus aceasta suma in Venitul total si apoi am diminuat bazele de calcul la CAS, CASS, CAM si Impozit cu aceasta suma. Am tratat astfel speta pentru anul 2023 intrucat conditia de nedepasire a venitului brut de 4000 RON, impunea stabilirea acestei dupa determinarea venitului total. S-a modificat calcul de salarii in ASiS pentru aceasta suma neimpozabila.
 
+### Concediu de ingrijitor
+
+- Conform legii 283 din 19.10.2022 (pentru modificarea Legii 53/2003 - Codul Muncii) se introduce un nou tip de concediu: Concediul de ingrijitor (incepand cu luna Decembrie 2022).  Concediul de ingrijitor este concediul acordat salariatilor in vederea oferirii de ingrijire/sprijin personal unei rude/persoane care locuieste in aceeasi gospodarie cu salariatul si care are nevoie de ingrijire/sprijin ca urmare a unei probleme medicale grave. 
+
+- Potrivit Legii 283/2022, angajatorul are obligatia acordarii concediului de ingrijitor salariatului in vederea oferirii de catre acesta de ingrijire/sprijin personal unei rude/persoane care locuieste in aceeasi gospodarie cu salariatul si care are nevoie de ingrijire/sprijin ca urmare a unei probleme medicale grave, cu o durata de 5 zile lucratoare intr-un an calendaristic, la solicitarea scrisa a salariatului.
+
+- Conform dispozitiilor legale, pentru concediul de ingrijitor, se poate stabili o durată mai mare decât cea prevazuta anterior, prin legi speciale sau prin contractul colectiv de munca aplicabil.
+
+- Este foarte important de precizat faptul ca acest tip de concediu de ingrijitor, nu se include in durata concediului de odihna anual si constituie vechime in munca si in specialitate.
+
+- Pentru aceasta in ASIS s-a introdus in macheta de Alte evenemente din ASiSria, un tip nou I-Concediu ingrijitor (pentru cei care au setat operare CO eveniment in macheta de concedii de odihna - parametru COEVMCO cu valoare logica True). Pentru cei care NU opereaza concediile de tip eveniment in macheta de concedii de odihna se va opera concediul de ingrijitor fie in pontaj fie in pontaj zilnic (daca se lucreaza cu pontaj zilnic). 
+
+- Salariatii care beneficiaza de concediul de ingrijitor sunt asigurati pe aceasta perioada, in sistemul asigurarilor sociale de sanatate fara plata contributiei. Prin urmare s-a tratat si in ASiS ca aceasta indemnizatie sa nu intre in baza de calcul a contributiei de sanatate. Momentan pana se va modifica si DUK Integrator este posibil sa apara mesaj de eroare pentru acesti salariati la validarea D112. S-au modificat momentan rapoartele Stat de plata.RDL, Fluturas centralizator.RDL, Stat de plata directia muncii.RDL, Fluturasul cu detaliere retineri (fluturasul cu sablon XML sau formularul in format HTML2PDF) pentru afisarea orelor si indemnizatiei de concediu ingrijitor. Aceste modificari se vor publica pe ASiSUpdate luni 16.01.2023.
+- Obiectele SQL publicate contin popularea parametrilor pentru ore lucratoare luna/salar minim brut pe tara garantat in plata.
+
+
