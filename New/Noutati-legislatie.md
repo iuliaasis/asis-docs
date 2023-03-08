@@ -118,7 +118,6 @@ fi de sa zicem 100 EUR, atunci automat diferenta de 12.5 EUR (100-87.5) este diu
 	
 - Diurne neimpozabile (Optiune=Da si Valoare=Codul tipului de corectie pentru diurne neimpozabile=W-). Daca diurna s-a virat deja inainte de lichidare drepturilor salariale aferente lunii de calcul, atunci in loc de codul corectiei W- se va utiliza codul B1 (Indemniz. Delegare neimpozab).
 - Diurne impozabile (Optiune=Da si Valoare=Codul tipului de corectie - unul din tipurile de corectie cu efect in venitul brut). 
-- 
 - Cod de beneficiar de retinere diurne setat in parametru CODBDIURN in campul valoare alfanumerica.
 
 La calcul salarii, aplicatia determina valoarea diurnelor neimpozabile si impozabile pentru fiecare salariat tinand cont de perioadele de diurna/detasare, indemnizatia zilnica si plafonul specificat mai sus si genereaza in macheta/Tabela Corectii aceste sume.
