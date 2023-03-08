@@ -10,14 +10,14 @@ parent: Noutati
 ### Venituri neimpozabile și beneficii impozabile 
 - Ordonanta 16/2022 a introdus un nou alineat la art. 76 din Codul fiscal (Legea 227/2015) prin care este prevazut ca anumite beneficii (venituri) cumulate lunar sunt venituri neimpozabile in limita a 33% din salariul de baza corespunzator locului de munca. 
 - Acestea sunt:
-- - prestatiile suplimentare primite de salariati in baza clauzei de mobilitate.
-- - contravaloarea hranei acordate de catre angajator pentru angajatii proprii,
-- - cazarea si contravaloarea chiriei pentru spatiile de cazare/de locuit puse de cttre angajatori la dispozitia angajatilor proprii
-- - contravaloarea serviciilor turistice şi/sau de tratament, inclusiv transportul, pe perioada concediului
-- - contribuţiile la un fond de pensii facultative suportate de angajatori in limita a 400 EURO/an
-- - primele de asigurare voluntara de sanatate, precum si serviciile medicale furnizate sub forma de abonament, suportate de angajator, in limita a 400 EURO/an
-- - sumele acordate angajatilor care desfasoara activitati in regim de telemunca in limita unui plafon de 400 lei lunar.
-- - contravaloarea abonamentelor pentru utilizarea facilitatilor sportive în vederea practicării sportului
+	- prestatiile suplimentare primite de salariati in baza clauzei de mobilitate.
+	- contravaloarea hranei acordate de catre angajator pentru angajatii proprii,
+	- cazarea si contravaloarea chiriei pentru spatiile de cazare/de locuit puse de cttre angajatori la dispozitia angajatilor proprii
+	- contravaloarea serviciilor turistice şi/sau de tratament, inclusiv transportul, pe perioada concediului
+	- contribuţiile la un fond de pensii facultative suportate de angajatori in limita a 400 EURO/an
+	- primele de asigurare voluntara de sanatate, precum si serviciile medicale furnizate sub forma de abonament, suportate de angajator, in limita a 400 EURO/an
+	- sumele acordate angajatilor care desfasoara activitati in regim de telemunca in limita unui plafon de 400 lei lunar.
+	- contravaloarea abonamentelor pentru utilizarea facilitatilor sportive în vederea practicării sportului
 
 - Pentru aceata in ASiSria am definit in machetele de corectii/subtipuri de corectii (functie de cum se
 lucreaza) tipuri/subtipuri de corectii pentru fiecare din aceste tipuri de venituri neimpozabile.
