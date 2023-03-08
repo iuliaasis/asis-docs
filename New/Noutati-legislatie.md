@@ -11,26 +11,29 @@ parent: Noutati
 
 - Ordonanta 16/2022 a introdus un nou alineat la art. 76 din Codul fiscal (Legea 227/2015) prin care este prevazut ca anumite beneficii (venituri) cumulate lunar sunt **venituri neimpozabile in limita a 33% din salariul de baza corespunzator locului de munca**. 
 - Acestea sunt:
-	- prestatiile suplimentare primite de salariati in baza clauzei de mobilitate.
-	- contravaloarea hranei acordate de catre angajator pentru angajatii proprii,
+	- **prestatiile suplimentare primite de salariati in baza clauzei de mobilitate.**
+	- **contravaloarea hranei acordate de catre angajator pentru angajatii proprii,
 	- cazarea si contravaloarea chiriei pentru spatiile de cazare/de locuit puse de cttre angajatori la dispozitia angajatilor proprii
 	- contravaloarea serviciilor turistice şi/sau de tratament, inclusiv transportul, pe perioada concediului
 	- contribuţiile la un fond de pensii facultative suportate de angajatori in limita a 400 EURO/an
 	- primele de asigurare voluntara de sanatate, precum si serviciile medicale furnizate sub forma de abonament, suportate de angajator, in limita a 400 EURO/an
 	- sumele acordate angajatilor care desfasoara activitati in regim de telemunca in limita unui plafon de 400 lei lunar.
-	- contravaloarea abonamentelor pentru utilizarea facilitatilor sportive în vederea practicării sportului
+	- contravaloarea abonamentelor pentru utilizarea facilitatilor sportive în vederea practicării sportului**
 
 - Pentru aceata in ASiS ERP am definit in machetele de corectii/subtipuri de corectii (functie de cum se lucreaza) tipuri/subtipuri de corectii pentru fiecare din aceste tipuri de venituri neimpozabile.
-- Pe langa acestea pentru clauza de mobilitate, daca aceasta este de natura sporului (adica se acorda procent/suma functie de orele lucrate) si este inregistrata deja ca si spor in dreptul salariatilor am introdus in macheta Configurari Sporuri, posibilitatea de marcare a acelui spor care reprezinta clauza de mobilitate.
-- Sumele acordate salariatilor pentru telemunca se vor opera pe corectia N cu conditia ca parametru PS,NUASS-N sa aiba valoare logica True.
+- 
+- Pe langa acestea pentru clauza de mobilitate, daca aceasta este de natura sporului (adica se acorda procent/suma functie de orele lucrate) si este inregistrata deja ca si spor in dreptul salariatilor am introdus in macheta **Configurari Sporuri**, posibilitatea de marcare a acelui spor care reprezinta clauza de mobilitate.
+- 
+- Sumele acordate salariatilor pentru telemunca se vor opera pe **corectia N cu conditia ca parametru PS,NUASS-N sa aiba valoare logica True**.
 - La calcul salarii am tratat urmatoarele automatizari:
+
 1. **Indemnizatia aferenta clauzei de mobilitate rezultata din dreptul sporului sa fie neimpozabila**.
 2. Am calculat valoarea **cazarii/chiriei neimpozabile in limita plafonului de 20% aplicat la salariul minim brut**.
 3. Am determinat la nivel de fiecare salariat **suma veniturilor neimpozabile si am plafonat aceasta suma la nivelul a 33% din salariul de baza**.
 4. Suma veniturilor neimpozabile care depasesc 33% din salariul de incadrare, plus valoarea chiriei ce depaseste 20% din salariul minim brut, le-am generat ca si corectie bruta BI-Beneficii impozabile, care este inclusa in Venitul brut si impozitata conform regulilor de impozitare ale veniturilor salariale.
 5. Implicit contributiile aferente acestor beneficii impozabile sunt suportate de catre angajator si aplicatia
 genereaza corectia BI ca si suma neta (si apoi se determina brutul corespunzator). Daca se doreste ca aceste contributii sa fie suportate de catre angajat, prin macheta Configurare optiuni PS, pe parametru PS,COBIMPSAL se va selecta optiunea Da.
-6. Generarea automata a unei retineri cu suma neta sau brut (dupa setarile mentionate la punctul anterior) pe
+6.Generarea automata a unei retineri cu suma neta sau brut (dupa setarile mentionate la punctul anterior) pe
 codul de beneficiar BENEFIMP astfel incat restul de plata al angajatului sa fie modificat corespunzator (fie sa ramina acelasi in varianta in care suporta angajatorul contributiile, fie restul de plata sa fie diminuat cu valoarea contributiilor). In macheta de Beneficiari retineri trebuie completate conturile pentru codul de beneficiar BENEFIMP.
 
 Daca anumite venituri neimpozabile se doresc a fi virate salariatilor la lichidarea drepturilor salariale, atunci in macheta de tipuri de corectii sau cea de subtipuri de corectii se vor marca acele tipuri/subtipuri care se doresc a fi incluse in venitul net/rest de plata prin campul [X]Includere in venit net.
