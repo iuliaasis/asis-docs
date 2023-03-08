@@ -77,4 +77,37 @@ Deducerea personala suplimentara se acorda astfel:
 - Salariatii care beneficiaza de concediul de ingrijitor sunt asigurati pe aceasta perioada, in sistemul asigurarilor sociale de sanatate fara plata contributiei. Prin urmare s-a tratat si in ASiS ca aceasta indemnizatie sa nu intre in baza de calcul a contributiei de sanatate. Momentan pana se va modifica si DUK Integrator este posibil sa apara mesaj de eroare pentru acesti salariati la validarea D112. S-au modificat momentan rapoartele Stat de plata.RDL, Fluturas centralizator.RDL, Stat de plata directia muncii.RDL, Fluturasul cu detaliere retineri (fluturasul cu sablon XML sau formularul in format HTML2PDF) pentru afisarea orelor si indemnizatiei de concediu ingrijitor. Aceste modificari se vor publica pe ASiSUpdate luni 16.01.2023.
 - Obiectele SQL publicate contin popularea parametrilor pentru ore lucratoare luna/salar minim brut pe tara garantat in plata.
 
+### Diurne neimpozabile si impozabile
+**01.11.2022 - Solutie pentru lucru in ASiS.PS cu diurne impozabile si neimpozabile pentru aplicare prevederi Legea 72/2022**
+**Introducere legislativa:**
+
+ - Incepand cu veniturile aferente lunii mai 2022, prevederile Legii nr. 227/2015 privind Codul fiscal, se modifica astfel incat valoarea indemnizatiei de delegare, indemnizatiei de detasare, indemnizatiei de detasare transnationala, prestatiilor suplimentare primite de salariati in baza clauzei de mobilitate precum si orice alte sume de aceeasi natura, altele decat cele acordate pentru acoperirea cheltuielilor de transport si cazare, primite de salariati potrivit legislatiei in materie, pe perioada desfasurarii activitatii in alta localitate, in tara sau in strainatate, in interesul serviciului, sunt exceptate de la plata impozitului pe venit si a contributiilor sociale ale angajatului si angajatorului, atat timp cat sumele acordate se incadreaza in urmatoarele limite:
+„k) indemnizația de delegare, indemnizația de detașare, inclusiv indemnizația specifică detașării transnaționale, prestațiile suplimentare primite de salariați în baza clauzei de mobilitate, precum și orice alte sume de aceeași natură, altele decât cele acordate pentru acoperirea cheltuielilor de transport și cazare, primite de salariați potrivit legislației în materie, pe perioada desfășurării activității în altă localitate, în țară sau în străinătate, în interesul serviciului, pentru partea care depășește plafonul neimpozabil stabilit astfel:
+(i) in tara, 2,5 ori nivelul legal stabilit pentru indemnizatie, prin hotarare a Guvernului, pentru personalul autoritatilor si institutiilor publice, in limita a 3 salarii de baza corespunzatoare locului de munca ocupat;
+(ii) in strainatate, 2,5 ori nivelul legal stabilit pentru diurna, prin hotarare a Guvernului, pentru personalul roman trimis in strainatate pentru indeplinirea unor misiuni cu caracter temporar, in limita a 3 salarii de baza corespunzatoare locului de munca ocupat. 
+Plafonul aferent valorii a 3 salarii de bază corespunzătoare locului de muncă ocupat se calculează prin raportarea celor 3 salarii la numărul de zile lucrătoare din luna respectivă, iar rezultatul se multiplică cu numărul de zile din perioada de delegare/detașare/desfășurare a activității în altă localitate, în ţară sau în străinătate;”
+Diurna in 2023 – Model de calcul pentru deplasarea in tara pentru o firma din sectorul privat: Stabilirea diurnei neimpozabile pentru un salariat cu salariul de baza de 3000 de lei brut. 
+Diurna interna – angajatul cu salariul de baza de 3000 de lei brut este trimis intr-o delegatie in tara, timp de 5 zile lucratoare, in luna curenta (Mai 2023).
+Plafonul de 2,5 x nivelul stabilit pentru insistutii publice: 20×2.5=50 lei/zi, adica pentru aceasta delegatie se poate primi o diurna de 250 de lei (50 lei x 5 zile)
+Plafonul raportat la 3 salarii de baza: 3000 lei brut x 3 : 22 zile lucratoare x 5 zile delegatia = 2045,45 lei. 
+De aici poate aparea urmatoarea situatie:
+Daca salariatul va primi diurna 50 lei/zi asta inseamna 250 lei pentru cele 5 zile. Prin urmare, va fi neimpozabila pentru ca se incadreaza in intervalul valoric prevazut de lege (este mai mica de 2045,45 lei).
+Exemplu calcul diurna pentru deplasare in afara tarii pentru o firma din sectorul privat:
+Diurna externa – angajatul cu salariul de baza de 3000 de lei brut este trimis intr-o delegatie in strainatate, timp de 5 zile lucratoare, in luna curenta (Mai 2023).
+Angajatul va fi trimis in Germania in delegatie, tara pentru care diurna externa pe zi 35 euro pentru sectorul public, asadar, este 87,5 euro pentru sectorul privat (35×2,5)
+Angajatul ar putea beneficia pentru o diurna de 437.5 euro, adica 2,119.07 lei (calculat la un curs euro de 4.84 lei)
+Aceasta valoare este mai mare decat plafonul de 2045,45 calculat. Rezulta ca 2045,45 lei vor fi diurna neimpozabila, iar diferența de 73,62 lei va fi impozabila.
+	Pentru a putea gestiona in ASiS.PS diurnele impozabile si neimpozabile este nevoie ca perioadele de diurna/detasare pe salariati cu numarul de zile/indemnizatia zilnica sa fie operate/preluate/generate in macheta/tabela Diurne. In macheta/tabela CuantumDiurne se pot defini diurnele la nivel de tara (daca exista delegatii/detasari in afara tarii), precum si sumele acordate pe teritoriul Romaniei.
+	Ex. de operare date in macheta Cuantum Diurne: 
+Tara: Germania, Valuta: EUR, Diurna: 87.5 EUR, Diurna neimpozabila 87.5 EUR. Daca diurna acordata ar
+fi de sa zicem 100 EUR, atunci automat diferenta de 12.5 EUR (100-87.5) este diurna impozabila. Diurna neimpozabila de 87.5 EUR va intra la plafonare functie de plafonul reprezentat de 3 salarii de baza corespunzatoare locului de munca.
+	In sensul celor de mai sus s-a introdus corectia noua (cod W-) Diurne neimpozabile. Aceasta corectie este inserata automat in tabela tipcor la rularea obiectelor SQL de salarii.
+	In macheta Configurare optiuni PS, pe parametrii: DIUNEIMP, DIUIMP si CODBDIURN trebuie sa se configureze faptul ca se lucreaza cu:
+Diurne neimpozabile (Optiune=Da si Valoare=Codul tipului de corectie pentru diurne neimpozabile=W-). Daca diurna s-a virat deja inainte de lichidare drepturilor salariale aferente lunii de calcul, atunci in loc de codul corectiei W- se va utiliza codul B1 (Indemniz. Delegare neimpozab).
+Diurne impozabile (Optiune=Da si Valoare=Codul tipului de corectie - unul din tipurile de corectie cu efect in venitul brut). In documentul din google drive de la adresa: https://docs.google.com/document/d/1Rmm5mMThHqrO1QAxes19TXIb-VO4QEigFmihK569iTU/edit?usp=sharing sunt specificatii cu privire la tipurile de corectii si efectul lor.
+Cod de beneficiar de retinere diurne setat in parametru CODBDIURN in campul valoare alfanumerica.
+La calcul salarii, aplicatia determina valoarea diurnelor neimpozabile si impozabile pentru fiecare salariat tinand cont de perioadele de diurna/detasare, indemnizatia zilnica si plafonul specificat mai sus si genereaza in macheta/Tabela Corectii aceste sume.
+
+
+
 
