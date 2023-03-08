@@ -8,6 +8,7 @@ parent: Noutati
 # Noutăți legislative 2023
 ## Modificari ASiS.PS valabile de la 01.01.2023
 ### Venituri neimpozabile și beneficii impozabile 
+
 - Ordonanta 16/2022 a introdus un nou alineat la art. 76 din Codul fiscal (Legea 227/2015) prin care este prevazut ca anumite beneficii (venituri) cumulate lunar sunt **venituri neimpozabile in limita a 33% din salariul de baza corespunzator locului de munca**. 
 - Acestea sunt:
 	- prestatiile suplimentare primite de salariati in baza clauzei de mobilitate.
@@ -34,4 +35,21 @@ codul de beneficiar BENEFIMP astfel incat restul de plata al angajatului sa fie 
 
 Daca anumite venituri neimpozabile se doresc a fi virate salariatilor la lichidarea drepturilor salariale, atunci in macheta de tipuri de corectii sau cea de subtipuri de corectii se vor marca acele tipuri/subtipuri care se doresc a fi incluse in venitul net/rest de plata prin campul [X]Includere in venit net.
 
+### Deducerea personală
 
+Conform OUG 168/2022 se modifica modul de calcul al deducerii personale de baza si in acelasi timp se introduce deducerea personala suplimentara.
+Deducerea personala de baza se acorda pentru persoanele fizice care au un venit lunar brut de pana la 2.000 de lei peste nivelul salariului de baza minim brut pe tara garantat in plata (5000 la nivelul anului 2023). Acest plafon de 2000 RON + salariul minim brut il vom denumi Venit brut maxim cu deducere suplimentara (VBMDS). Deducerea personala se acorda doar la functia de baza. Deducerea personala de baza scade degresiv pentru veniturile (venit brut lunar=Venit total din Stat de plata + valoare tichete) cuprise intre salariul minim brut (3000 la 2023) si salariul minim brut + 2000 RON (5000 la 2023) conform formulei descrise in Ordonanta 16/15.07.2022 (Articolul 40). 
+Pentru contribuabilii care realizează venituri brute lunare din salarii ce depasesc plafonul generat de salariul minim + 2000 RON, NU se acorda deducerea personala de baza.
+Deducerea personala suplimentara se acorda astfel:
+- 15% din salariul de baza minim brut pe tara garantat in plata pentru persoanele fizice cu varsta de pana la 26 de ani, care realizează venituri din salarii al caror nivel este de pana la nivelul prevazut de VBMDS.
+- 100 de lei lunar pentru fiecare copil cu varsta de pana la 18 ani, dacă acesta este inscris într-o unitate de invatamant, parintelui care realizeaza venituri din salarii, indiferent de nivelul acestora.
+	- In cazul in care copilul este intretinut de ambii parinti, deducerea personala suplimentara prevazuta mai sus se acorda unuia dintre parinti prin prezentarea documentului care atesta inscrierea copilului intr-o unitate de invatamant si a unei declaratii pe propria raspundere din partea parintelui beneficiar.
+	- In situatia in care parintele desfasoara activitate la mai multi angajatori, in plus fata de documentele prevazute la punctul de mai sus parintele care beneficiaza de deducerea personala suplimentara prevazuta mai sus are obligatia sa declare ca nu beneficiaza de astfel de deduceri de la un alt angajator.
+
+- In ASIS ERP in macheta Salariati, tabul Persoane in intretinere s-a introdus campul Deducere suplimentara prin care se va marca in dreptul copilului daca acesta participa la deducerea suplimentara. 
+
+- Pentru deducerea de 15% din salariul de baza minim brut, DACA se lucreaza cu cetateni straini care la momentul angajarii nu au CNP din care sa se poata determina data nasterii (si apoi implicit varsta) trebuie ca in ASiSria in macheta Salariati sa se activeze campul Data nasterii si apoi sa se completeze. Daca NU se lucreaza cu asemenea cetateni straini, NU este nevoie de activarea campului Data nasterii intrucat ea rezulta din CNP.
+
+- S-au modificat procedurile de calcul salarii pentru calcul corectii brut din net - s-a tratat sa se tina cont si aici de noul mod de calcul al deducerilor personale baza si suplimentare.
+
+- S-au modificat in ASiS procedurile de calcul salarii pentru calculul deducerii personale de baza si suplimentare. Momentan in Fluturasi.RDL, Stat de plata.RDL, Stat de plata restrans.RDL am afisat deducerea suplimentara impreuna cu deducerea de baza. In Fluturas centralizator.RDL, Stat de plata directia muncii.RDL si Fluturasul HTML2PDF sau cel cu formular XML am afisat deducerea suplimentara separat de deducerea personala. 
