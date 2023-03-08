@@ -11,8 +11,8 @@ parent: Noutati
 
 - Ordonanta 16/2022 a introdus un nou alineat la art. 76 din Codul fiscal (Legea 227/2015) prin care este prevazut ca anumite beneficii (venituri) cumulate lunar sunt **venituri neimpozabile in limita a 33% din salariul de baza corespunzator locului de munca**. 
 - Acestea sunt:
-	- **prestatiile suplimentare primite de salariati in baza clauzei de mobilitate.**
-	- **contravaloarea hranei acordate de catre angajator pentru angajatii proprii,
+	- prestatiile suplimentare primite de salariati in baza clauzei de mobilitate.**
+	- contravaloarea hranei acordate de catre angajator pentru angajatii proprii,
 	- cazarea si contravaloarea chiriei pentru spatiile de cazare/de locuit puse de cttre angajatori la dispozitia angajatilor proprii
 	- contravaloarea serviciilor turistice şi/sau de tratament, inclusiv transportul, pe perioada concediului
 	- contribuţiile la un fond de pensii facultative suportate de angajatori in limita a 400 EURO/an
