@@ -6,7 +6,7 @@ parent: Noutati
 ---
 
 # Noutăți legislative 2023
-## Modificari ASiS.PS valabile de la 01.01.2023
+## Modificari ASiS.PS (Salarizare) valabile de la 01.01.2023
 ### Venituri neimpozabile și beneficii impozabile 
 
 - Ordonanta 16/2022 a introdus un nou alineat la art. 76 din Codul fiscal (Legea 227/2015) prin care este prevazut ca anumite beneficii (venituri) cumulate lunar sunt **venituri neimpozabile in limita a 33% din salariul de baza corespunzator locului de munca**. 
