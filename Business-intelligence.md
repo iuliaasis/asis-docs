@@ -37,4 +37,19 @@ Valorificarea oportunităților și minimizarea riscurilor sunt vitale pentru su
 ## 5. Este o aplicație embeded ASiS ERP
 Accesul la ASiS BI se realizează direct din platforma ASiS ERP. Utilizatorii își văd rapoartele și graficele configurate special pentru ei, pot lucra colaborativ și schimba prioritățile foarte rapid în funcție de ce le “spun” datele.
 
+## 6. Întreține o cultură organizațională bazată pe informații
+ASiS BI este un instrument care oferă claritate managerilor. Pornind de la cifre și informații, deciziile strategice, tactice sau operaționale sunt corelate și urmărite pas cu pas. De exemplu, un dasboard strategic care vizează creșterea vânzărilor ar putea urmări cifra de afaceri, vânzările generate pe clienții existenți și noi și “costul” de vânzare” – toate acestea în evoluție față de anii anteriori. Pornind de aici, se pot stabili KPI-uri de vânzări, iar echipele din companie pot să-și urmărească performanțele “pe grafice” interactive (realizat versus propus) și să-și ajusteze efortul în direcția potrivită.
+
+## 7. Poate fi accesată de pe orice dispozitiv mobil
+Cele mai multe decizii se iau în zilele noastre “on the go”, în mișcare. Din acest motiv, ASiS BI funcționează pe orice dispozitiv inteligent (laptop, tabletă, telefon) și poate fi accesat de oriunde. Utilizatorii ASiS BI se bucură de libertate și, în același timp, de mobilitate, păstrându-și opțiunile și deciziile clare.
+
+## 8. Integrează mai multe surse de date (ERP, IOT, etc) pentru o imagine 360
+Pentru analize eficiente, ASiS BI ia în calcul atât informația din sistemul ASiS ERP cât și din alte surse (Internet of Things) – mai ales în procesele de producție, sporind astfel gradul de relevanță pentru indicatorii analizați. Acest lucru face ca utilizatorii ASiS BI să aibă o imagine 360 de grade asupra afacerii și să ia facil decizii din ce în ce mai informate, ca răspuns la nevoile afacerii.
+
+## 9. Funcționează nativ cu cloudul de la Microsoft
+Dezvoltat pe tehnologie Microsoft, ASiS BI funcționează nativ în Cloud. Companiile pot să se concentreze pe activitatea de bază fără a avea grija infrastructurii, a mentenanței IT (hardware, servere, etc) sau a securității datelor.
+
+## 10. Asigură securitatea deplină a datelor
+Fiind încorporat în sistemul integrat ASiS, aplicația de Business Intelligence de la Alfa Software beneficiază de toate mecanismele de securitate ale acestui sistem. Sunt utilizate drepturi de acces diferențiate pentru utilizatori și mecanisme avansate de criptare. Fiind un produs de tip Cloud, dezvoltat pe platformele Microsoft, ASiS BI beneficiază și de securitatea Microsoft.
+
 
