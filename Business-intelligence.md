@@ -29,6 +29,12 @@ Practic, cu cât utilizatorii de BI aleg să intre în detaliu, vor descoperi co
 Unul dintre cele mai importante avantaje oferite de ASiS BI este posibilitatea de customizare a diferitelor tablouri de bord, conform nevoilor și cerințelor individuale ale companiei tale. Există posibilitatea de customizare a rapoartelor și graficelor predefinite din ASiS BI, dar și posibilitatea de a construi altele de la zero,conform nevoilor existente în companie. Aceasta oferă siguranță companiilor în obținerea prioritară a datelor relevante.
 
 ## 3. Oferă un set de dasboarduri predefinite pentru fiecare verticală de business
-În prezent, peste 100 de companii care utilizează sistemul ERP ASiS, au ales și aplicația de Business Intelligence de la Alfa Software. Cuprinzând un spectru larg de verticale de business în portofoliul nostru, am reușit să configurăm seturi predefinite de rapoarte și dashboarduri interactive, ready-to-use, pentru fiecare arie de interes. Cele mai interesante sunt Profit și pierdere, Cash-flow, Vânzări, Salarii sau Costuri de producție.
+În prezent, peste 100 de companii care utilizează sistemul ERP ASiS, au ales și aplicația de Business Intelligence de la Alfa Software. Cuprinzând un spectru larg de verticale de business în portofoliul nostru, am reușit să configurăm seturi predefinite de rapoarte și dashboarduri interactive, ready-to-use, pentru fiecare arie de interes. Cele mai interesante sunt **Profit și pierdere, Cash-flow, Vânzări, Salarii, Stocuri sau Costuri de producție.**
+
+## 4. Asigură instrumente avansate de previziune
+Valorificarea oportunităților și minimizarea riscurilor sunt vitale pentru susținerea creșterii companiei tale. ASiS BI oferă instrumentele necesare pentru realizarea analizelor predictive, care scot în prim-plan indicatorii performanței viitoare a afacerii, cum ar fi riscurile și vânzările potențiale. În acest fel, oportunitățile pot fi identificate din timp, iar deciziile de urmărire a acestora sunt bazate pe date reale. De exemplu, dashboardul Cash-flow din ASiS BI poate arăta atât cash-flow-ul lunilor trecute, dar, pe baza unor algoritmi de recurență și scadenței facturilor, se poate face inclusiv o previziune de cash-flowului.
+
+## 5. Este o aplicație embeded ASiS ERP
+Accesul la ASiS BI se realizează direct din platforma ASiS ERP. Utilizatorii își văd rapoartele și graficele configurate special pentru ei, pot lucra colaborativ și schimba prioritățile foarte rapid în funcție de ce le “spun” datele.
 
 
