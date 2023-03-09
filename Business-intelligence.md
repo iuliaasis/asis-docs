@@ -9,7 +9,7 @@ Adesea managerii sunt puşi în situaţia de a lua decizii rapide privind activi
 
 Soluția ASiS BI ofera suport tuturor sectoarelor de business dintr-o companie prin eficientizarea proceselor decizionale și generarea de insight-uri utile pentru performanță. **Business Intelligence (BI) este o platformă smart de grafice interactive, instrumente de analiză a datelor și rapoarte intuitive concepute pentru colectarea informațiilor, analiza activității și gestionarea datelor aferente operațiunilor de afaceri în timp real.**
 
-![](../../assets/capturi/BI Profit si Pierdere ASiS ERP.jpg)
+![](../../assets/capturi/BI Profit si Pierdere ASiS ERP.png)
 
 - ASiS BI permite **analiza economico-financiară sau operațională a datelor** fie prin dasboard-uri interactive (indicatori grafici), fie prin intermediul rapoartelor.
 - Datele folosite pentru rapoarte și grafice sunt cele introduse şi prelucrate în celelalte aplicaţii ale sistemului integrat ASiS ERP.
