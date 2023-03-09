@@ -1,12 +1,11 @@
 ---
 title: Business Intelligence
 layout: home
-parent: home
 nav_order: 50
 has_children: false
 ---
-Tablou de Bord
-Adesea managerii sunt puşi în situaţia de a lua decizii rapide privind activitatea companiei. Aceasta face necesară existența informaţiilor corecte, iar aplicația Tablou de Bord (desktop sau de pe telefonul mobil) vine în întâmpinarea acestor nevoi şi transformă datele existente în sistem în informaţii de calitate.
+Business Intelligence
+Adesea managerii sunt puşi în situaţia de a lua decizii rapide privind activitatea companiei. Aceasta face necesară existența informaţiilor corecte, iar graficele interactive Business Intelligence (desktop sau de pe telefonul mobil) vine în întâmpinarea acestor nevoi şi transformă datele existente în sistem în informaţii de calitate.
 
 - Aplicaţia Tablou de bord permite analiza economico-financiară sau operațională a datelor fie prin dasboard-uri interactive (indicatori grafici), fie prin intermediul rapoartelor.
 - Versiunea disponibilă de pe smartphone a Tabloului de Bord permite consultarea de pe telefon a informațiilor, rapoartelor sau dashboard-urilor grafice privind terții, stocurile, vânzările sau producția, etc. Rapoartele consultate de pe mobil sunt disponibile doar în format PDF.
