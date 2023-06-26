@@ -80,6 +80,7 @@ Aplicatia mobilă a sistemului ASiS ERP permite încărcarea pozelor privind doc
 
 
 ## Pe mobil: 
+![](../../assets/capturi/Ordin de deplasare - mobile.png)
 În acest moment, ordinele de deplasare deschise pentru o anumită persoană sunt vizibile pe mobil astfel: poză
 
 **Încarcă fișiere spre decontare:** Aplicatia ASiSmobile e legată de aplicația Cammscanner (aplicatie de scanat poze - la rezolutie foarte buna) și din Cammscanner se încarcă documentele legate de deplasare (în general, în format PDF).
