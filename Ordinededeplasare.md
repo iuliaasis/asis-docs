@@ -101,10 +101,10 @@ De asemenea acesta se poate deschide, iar butonul de **Operare** deschide o mach
 # Alte informații despre modulul Ordine de deplasare
 
 - De pe mobil, aplicatia e desemnată unui utilizator și toate datele legate de acel utilizator, introduse din alte module ale sistemului ERP, sunt completate automat, inclusiv cardul de firma.
-- Există și un formular de Ordin de deplasare care poate fi generat automat din sistem.
-- Există o monedă principală a decontului și se pot face plăți în mai multe monede prin intermediul unui card dat șoferului
-- Diurna adăugată în macheta Ordine de deplasare se propagă în Registru și în partea de salarizare - pe fluturaș
-- Există și o altă metodă de a face calculul de diurne: automat, printr-un modul dedicat de diurne și poate fi virat pe cardul salariaților, dacă e un calcul complicat. 
+- Există și un **formular atașat de Ordin de deplasare** care poate fi generat automat din sistem.
+- Există o monedă principală a decontului și se pot face plăți în mai multe monede prin intermediul unui card dat utilizatorului/celui care face decontul
+- Diurna adăugată în macheta Ordine de deplasare se propagă în Registru de plăți-încasări și în partea de salarizare - pe fluturaș
+- Există și o altă metodă de a face calculul de diurne: automat, printr-un modul dedicat de diurne, dacă e vorba de un calcul complicat. 
 
 
 
