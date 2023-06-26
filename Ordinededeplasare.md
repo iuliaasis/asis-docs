@@ -7,7 +7,9 @@ has_children: false
 ---
 # Modulul Ordine de deplasare
 
-Modulul de **Ordine de deplasare din ASiS ERP** este o componentă a sistemului ERP care permite gestionarea și monitorizarea deplasărilor angajaților în cadrul oricărei companii. Acest modul are scopul de a asigura un control eficient al deplasărilor, în conformitate cu politicile și regulamentele companiei. 
+Modulul de **Ordine de deplasare din ASiS ERP** este o componentă a sistemului ERP care permite gestionarea și monitorizarea deplasărilor angajaților în cadrul oricărei companii. 
+Acest modul are scopul de a asigura un control eficient al deplasărilor, în conformitate cu politicile și regulamentele companiei. 
+
 Modulul Ordine de deplasare se interfațează în mod direct cu **modulul Avansuri, Deconturi și Foi de parcurs** din cadrul aceluiași sistem integrat - ASiS ERP, cu scopul de a trata integrat datele dintr-o companie. 
 Modulul digitalizează relația între angajați (în deplasare) și departamentul de Contabilitate din orice companie care utlizează sistemul ASiS ERP.
 
