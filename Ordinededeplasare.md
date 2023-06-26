@@ -75,9 +75,10 @@ Aplicatia mobilă a sistemului ASiS ERP permite încărcarea pozelor privind doc
 - In macheta Ordine de deplasare se pot inregistra inclusiv avansurile acordate, iar acestea dau efect automat in Registrul de plati-incasari din ASiS ERP
 
 
-## În acest moment, ordinele de deplasare deschise pentru o anumită persoană sunt vizibile pe mobil astfel: poză
+## Pe mobil: 
+În acest moment, ordinele de deplasare deschise pentru o anumită persoană sunt vizibile pe mobil astfel: poză
 
-Încarcă fișiere spre decontare: Aplicatia ASiSmobile e legată de aplicația Cammscanner (aplicatie de scanat poze - la rezolutie foarte buna) și din Cammscanner se încarcă documentele legate de deplasare (în general, în format PDF).
+**Încarcă fișiere spre decontare:** Aplicatia ASiSmobile e legată de aplicația Cammscanner (aplicatie de scanat poze - la rezolutie foarte buna) și din Cammscanner se încarcă documentele legate de deplasare (în general, în format PDF).
 
 
 ## În aplicația de back-office, se poate vizualiza documentul încărcat în sistem. 
@@ -89,9 +90,14 @@ De asemenea acesta se poate deschide, iar butonul de **Operare** deschide o mach
 - dacă punem bifa **Factură plătită** - incasarea apare în Registru legată de decont
 
 
-## De pe mobil, aplicatia e desemnată unui utilizator și toate datele legate de acel utilizator, introduse din alte module ale sistemului ERP, sunt completate automat, inclusiv cardul de firma.
+# Alte informații despre modulul Ordine de deplasare
 
+- De pe mobil, aplicatia e desemnată unui utilizator și toate datele legate de acel utilizator, introduse din alte module ale sistemului ERP, sunt completate automat, inclusiv cardul de firma.
 - Există și un formular de Ordin de deplasare care poate fi generat automat din sistem.
+- Există o monedă principală a decontului și se pot face plăți în mai multe monede prin intermediul unui card dat șoferului
+- Diurna adăugată în macheta Ordine de deplasare se propagă în Registru și în partea de salarizare - pe fluturaș
+- Există și o altă metodă de a face calculul de diurne: automat, printr-un modul dedicat de diurne și poate fi virat pe cardul salariaților, dacă e un calcul complicat. 
+
 
 
 
