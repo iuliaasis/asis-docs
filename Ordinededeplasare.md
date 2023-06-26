@@ -86,7 +86,7 @@ Aplicatia mobilă a sistemului ASiS ERP permite încărcarea pozelor privind doc
 În acest moment, ordinele de deplasare deschise pentru o anumită persoană sunt vizibile pe mobil astfel: poză
 
 **Încarcă fișiere spre decontare:** Aplicatia ASiSmobile e legată de aplicația Cammscanner (aplicatie de scanat poze - la rezolutie foarte buna) și din Cammscanner se încarcă documentele legate de deplasare (în general, în format PDF).
-
+![](../../assets/capturi/Ordin de deplasare campuri.png)
 
 ## În aplicația de back-office, se poate vizualiza documentul încărcat în sistem. 
 De asemenea acesta se poate deschide, iar butonul de **Operare** deschide o macheta (Interpretare ordin de deplasare) care permite interpretarea documentului prin OCR-izare astfel:
@@ -95,7 +95,8 @@ De asemenea acesta se poate deschide, iar butonul de **Operare** deschide o mach
 - Operarea unei facturi prin OCR-izare genereaza automat și recepția aferentă ei în sistemul ASiS ERP.
 - bifa **Finalizare document** din macheta de OCR-izare, permite operarea mai multor poziții pe o recepție, de exemplu.
 - dacă punem bifa **Factură plătită** - incasarea apare în Registru legată de decont
-
+  
+![](../../assets/capturi/OCR-izare document ASiS ERP.png)
 
 # Alte informații despre modulul Ordine de deplasare
 
