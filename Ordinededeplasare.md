@@ -64,6 +64,8 @@ Modulul de ordine de deplasare din ASiS ERP poate fi personalizat în funcție d
 Modulul ține evidența ordinelor de deplasare făcând managementul documentelor de deplasare în format digital, indiferent de primirea/existența documentelor fizice la sediu/contabilitate. 
 Un ordin de deplasare poate fi pe un **singur decont sau un decont poate sa contina mai multe ordine de deplasare.**
 
+![](../../assets/capturi/Pozitie Ordin de deplasare.png)
+
 Modulul de Ordine de deplasare din ASiS ERP dispune de **o machetă care poate fi accesată din back-office (aplicația desktop) și de o aplicație disponibilă de pe telefonul mobil -ASiSmobile.** Cele 2 interfețe de operare/introducere a datelor aparțin aceluiași sistem - ASiS ERP. Datele introduse într-una dintre ele pot fi vizualizate/modificate în cealaltă. 
 
 Aplicatia mobilă a sistemului ASiS ERP permite încărcarea pozelor privind documentele legate de o deplasare și ulterior OCR-izarea lor și regăsirea datelor structurat în sistemul ERP.
