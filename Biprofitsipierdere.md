@@ -29,18 +29,25 @@ Afișarea sintetică și analitică a datelor are loc astfel:
 - prin **detaliere pe luni sau ani a veniturilor operaționale, a cheltuielilor operaționale, a profitului net, EDITDA**
 - toate cele de mai sus comparativ cu **un buget/target setat pe luna/an sau raportat la anul precedent.**
   
-![](../../assets/capturi/P&L - Indicatori P&L definiti.png)
+![](../../assets/capturi/P&L - Adaugare buget pe indicatori.png)
 
   Raportat la un buget sau la anul precedent, toate datele vor fi semnalizate corespunzător (cu verde - dacă se încadrează în buget, cu roșu - dacă e depășit bugetul). 
 - Prima pagină a indicatorului P&L prezintă sintetic (overview) **situația profitului net la nivel de firmă.**
 - A doua pagină prezintă tot sintetic fiecare indicator din Profit și pierdere (de exemplu - venituri operaționale)
 - A treia pagină - **Detalierea lunară** arată evoluția indicatorilor din P&L pe fiecare lună din an. De aici, se pot exporta datele într-un Excel pentru a fi analizate și altfel, pentru a face calcule pentru un buget și apoi sa fie importat acest buget.
+![](../../assets/capturi/P&L - Indicatori cu semnalizare.png)
 
-  Click pe iconul de Buget din dreptul fiecărui indicator. Bugetul se modifică ca și sumă sau ca și procent.
+Click pe iconul de Buget din dreptul fiecărui indicator. Bugetul se modifică ca și sumă sau ca și procent.
+![](../../assets/capturi/P&L - Indicatori P&L definiti.png)
 - A patra pagină - **Venituri** - poate fi făcută detalierea oricărui venit
 - A 5-a pagină - **Cheltuieli** - poate fi făcută detalierea oricărei cheltuieli
 
+![](../../assets/capturi/P&L - Detaliere cheltuieli.png)
+
 ## Cum sunt gestionate locurile de muncă în BI P&L?
+
+![](../../assets/capturi/P&L -Indicatori pe locuri de munca.png)
+
 Există o variantă a analizei de Profit și pierdere la nivel de loc de muncă. Se pot vedea cheltuielile și veniturile directe pe un loc de muncă, dar și cele generale, repartizate. Se poate analiza profitul direct legat de un loc de muncă, dar și cel de după repartizarea unor cheltuieli generale.
 
 
