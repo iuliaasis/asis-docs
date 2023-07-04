@@ -62,4 +62,4 @@ Fiind încorporat în sistemul integrat ASiS, aplicația de Business Intelligenc
 ## BI Analiză producție
 ## BI Solduri
 ## BI Cashflow
-## BI Management trasporturi
+## BI Management transporturi
