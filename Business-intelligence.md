@@ -52,4 +52,14 @@ Dezvoltat pe tehnologie Microsoft, ASiS BI funcționează nativ în Cloud. Compa
 ### 10. Asigură securitatea deplină a datelor
 Fiind încorporat în sistemul integrat ASiS, aplicația de Business Intelligence de la Alfa Software beneficiază de toate mecanismele de securitate ale acestui sistem. Sunt utilizate drepturi de acces diferențiate pentru utilizatori și mecanisme avansate de criptare. Fiind un produs de tip Cloud, dezvoltat pe platformele Microsoft, ASiS BI beneficiază și de securitatea Microsoft.
 
-
+# Ce grafice/rapoarte de BI (Business Intelligence) se regăsesc în ASiS ERP?
+## BI Profit și pierdere
+## BI Vânzări
+## BI Stocuri
+## BI Salarii
+## BI Costuri
+## BI Centre
+## BI Analiză producție
+## BI Solduri
+## BI Cashflow
+33 BI Management trasporturi
