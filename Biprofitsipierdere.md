@@ -19,17 +19,20 @@ Business Intelligence oferă instrumente puternice pentru analiza și vizualizar
 
 ## Cum funcționează P&L în ASiS ERP?
 În sistemul ERP toate documentele introduse sunt încadrate automat pe indicatorii definiți pentru P&L printr-o tabelă special creată pentru asta. 
+
+![](../../assets/capturi/P&L - Indicatori P&L definiti.png)
+
 Acest sistem de categorisire nu e vizibil pentru utilizatorii obișnuiți. Dar contează în momentul în care se dă un **calcul automat de Profit și pierdere** pentru o entitate și se face o analiză de date detaliată pe indicatorii din Profit și pierdere.
 Există “în spate” o bifă de “Total” care permite vizualizarea anumitor indicatori ca și sume totale (prin cumularea tuturor documentelor de pe un indicator). Dacă nu se pune această bifă, există posibilitatea de detaliere a acestor indicatori, document cu document.
 
 Afișarea sintetică și analitică a datelor are loc astfel:
-- prin detaliere pe luni sau ani a veniturilor operaționale, a cheltuielilor operaționale, a profitului net, EDITDA
-- toate cele de mai sus comparativ cu un buget/target setat pe luna/an sau raportat la anul precedent. Raportat la un buget sau la anul precedent, toate datele vor fi semnalizate corespunzător (cu verde - dacă se încadrează în buget, cu roșu - dacă e depășit bugetul). 
-- Prima pagină a indicatorului P&L prezintă sintetic (overview) situația profitului net la nivel de firmă.
+- prin **detaliere pe luni sau ani a veniturilor operaționale, a cheltuielilor operaționale, a profitului net, EDITDA**
+- toate cele de mai sus comparativ cu **un buget/target setat pe luna/an sau raportat la anul precedent.** Raportat la un buget sau la anul precedent, toate datele vor fi semnalizate corespunzător (cu verde - dacă se încadrează în buget, cu roșu - dacă e depășit bugetul). 
+- Prima pagină a indicatorului P&L prezintă sintetic (overview) **situația profitului net la nivel de firmă.**
 - A doua pagină prezintă tot sintetic fiecare indicator din Profit și pierdere (de exemplu - venituri operaționale)
-- A treia pagină - Detalierea lunară arată evoluția indicatorilor din P&L pe fiecare lună din an. De aici, se pot exporta datele într-un Excel pentru a fi analizate și altfel, pentru a face calcule pentru un buget și apoi sa fie importat acest buget. Click pe iconul de Buget din dreptul fiecărui indicator. Bugetul se modifică ca și sumă sau cași procent.
-- A patra pagină - Venituri - poate fi făcută detalierea oricărui venit
-- A 5-a pagină - Cheltuieli - poate fi făcută detalierea oricărei cheltuieli
+- A treia pagină - **Detalierea lunară** arată evoluția indicatorilor din P&L pe fiecare lună din an. De aici, se pot exporta datele într-un Excel pentru a fi analizate și altfel, pentru a face calcule pentru un buget și apoi sa fie importat acest buget. Click pe iconul de Buget din dreptul fiecărui indicator. Bugetul se modifică ca și sumă sau cași procent.
+- A patra pagină - **Venituri** - poate fi făcută detalierea oricărui venit
+- A 5-a pagină - **Cheltuieli** - poate fi făcută detalierea oricărei cheltuieli
 
 ## Cum sunt gestionate locurile de muncă în BI P&L?
 Există o variantă a analizei de Profit și pierdere la nivel de loc de muncă. Se pot vedea cheltuielile și veniturile directe pe un loc de muncă, dar și cele generale, repartizate. Se poate analiza profitul direct legat de un loc de muncă, dar și cel de după repartizarea unor cheltuieli generale.
