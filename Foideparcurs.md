@@ -1,4 +1,3 @@
-
 ---
 title: Foi de parcurs
 layout: home
