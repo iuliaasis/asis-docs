@@ -10,6 +10,8 @@ Modulul Foi de parcurs din ASiS ERP se adresează companiilor care dețin o flot
 
 # Beneficiile utilizarii modulului Foi de parcurs din ASiS ERP
 
-### salvează timp pentru resursele umane ale companiei care poate fi redirecționat către ale puncte de interes/necesități
-### prin acest modul, mașinile sau utilajele sunt văzute ca și centre de cost intermediare care colectează cheltuieli și apoi le transferă către centrele de cost pentru care “lucrează”: în cazul constructorilor - șantierele, în cazul transportatorilor - locuri de încarcare sau descărcare
+### salvează timp pentru resursele umane ale companiei
+El poate fi redirecționat către ale puncte de interes/necesități ale companiei.
+### prin acest modul, mașinile sau utilajele sunt văzute ca și centre de cost intermediare care colectează cheltuieli și apoi le transferă către centrele de cost pentru care “lucrează”
+În cazul constructorilor vorbim de șantiere, în cazul transportatorilor este vorba de locuri de încarcare sau descărcare.
 
