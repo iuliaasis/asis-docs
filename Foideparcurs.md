@@ -59,6 +59,8 @@ Se analizează și se verifică datele din centralizator.
 
 Se apasă butonul de **Generare foi de parcurs**. Se genereaza foi de parcurs pentru toate mașinile setate, pentru o anumită lună sau o anumita perioadă.
 
+
+
 Pe lângă datele legate de km parcurși, ASiS ERP poate preia tot prin intermediul API-urilor date legate de combustibil (prin interfațarea cu furnizor de combustibili) sau de taxe de drum. 
 
 
