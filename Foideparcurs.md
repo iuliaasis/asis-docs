@@ -30,7 +30,7 @@ Pentru ca dreptul la deducere să poate fi exercitat, foaia de parcurs trebuie �
 - scopul şi locul deplasării,
 - norma proprie de consum carburant pe kilometru parcurs.
 
-  # Cu ce sisteme GPS interfațează ASiS ERP?
+# Cu ce sisteme GPS interfațează ASiS ERP?
 
 ASiS ERP poate interfața cu orice sistem GPS prin intermediul unui API, și poate prelua date cu o frecvență stabilită de managementul companiei (o dată pe zi, de exemplu).
 Cele mai populare sisteme GPS cu care s-a realizat deja interfațarea sunt:
