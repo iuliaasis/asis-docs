@@ -14,39 +14,39 @@ Pentru a genera Declarația 406 din ASIS ERP, urmați pașii de mai jos:
     - Deschideți ASIS ERP.
     - Navigați la meniul "Declarația 406".
     - Alegeți luna pentru care doriți să generați declarația, de exemplu, ianuarie 2023.
-    ![Pas 1](screenshots/pas1.png)
+    
 
 2. **Completarea Informațiilor Inițiale**:
     - Asigurați-vă că toate informațiile inițiale sunt completate corect, inclusiv numele declarantului.
     - Folosiți un număr limitat de caractere pentru titlul declarantului (maxim 6 caractere) pentru a evita erorile la validare.
-    ![Pas 2](screenshots/pas2.png)
+    
 
 3. **Generarea Declarației**:
     - Apăsați butonul pentru generarea declarației.
     - ASIS ERP va crea o arhivă ZIP care conține fișierul XML cu declarația 406.
     - De asemenea, se vor genera două fișiere Excel: unul cu datele complete și unul cu datele incomplete.
-    ![Pas 3](screenshots/pas3.png)
+    
 
 4. **Verificarea și Corectarea Datelor Incomplete**:
     - Deschideți fișierul Excel cu date incomplete.
     - Verificați și corectați erorile specificate, cum ar fi gestiuni fără adresă completată, unități de măsură necompletate sau coduri vamale lipsă.
-    ![Pas 4](screenshots/pas4.png)
+    
 
 5. **Validarea Datelor cu Documentele din ASIS ERP**:
     - Deschideți fișierul Excel cu date complete și validați informațiile cu documentele din ASIS ERP.
     - Verificați soldurile conturilor, soldurile pe terți, taxe, unități de măsură, tipuri de mișcări, produse și înregistrări contabile.
-    ![Pas 5](screenshots/pas5.png)
+
 
 6. **Generarea Finală și Validarea în DUC Integrator**:
     - După corectarea tuturor datelor incomplete, generați din nou declarația.
     - Deschideți arhiva ZIP și validați fișierul XML în DUC Integrator.
     - Asigurați-vă că nu există erori suplimentare raportate de DUC Integrator.
-    ![Pas 6](screenshots/pas6.png)
+    
 
 7. **Încărcarea Declarației pe Portalul e-Guvernare**:
     - După validarea fără erori în DUC Integrator, semnați XML-ul și încărcați-l pe portalul e-Guvernare la secțiunea declarații.
     - Așteptați confirmarea și recipisa de la autoritățile fiscale.
-    ![Pas 7](screenshots/pas7.png)
+    
 
 ### Observații și Recomandări
 
